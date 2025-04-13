@@ -16,9 +16,9 @@ const staticPath = path.join(`${__dirname}/../public`);
 console.log("RETORNO DO STATIC PATH VINDO DO APP.JS:");
 console.log(staticPath);
 
-app.engine("handlebars", handlebars.engine());
+app.engine("handlebars", handlebars.engine({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
-app.set("views", pathView);
+app.set("views", path.join(__dirname, "views"));
 
 app.use("/users", usersRouter);
 app.use("/static", express.static(staticPath));
