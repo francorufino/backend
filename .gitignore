@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Diretórios do sistema
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
