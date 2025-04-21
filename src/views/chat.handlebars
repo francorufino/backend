@@ -1,12 +1,36 @@
-<div class="container"></div>
-<h1>Bem vindo à Comunidade CoderChat</h1>
-<div>
-  <input type="text" id="messageInput" placeholder="Digite uma mensagem..." />
-  <button onclick="sendMessage()">Enviar</button>
-</div>
-<div id="chatBox"></div>
-</div>
+<h1>
+  Suporte ao Cliente
+</h1>
 
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script src="/socket.io/socket.io.js"></script>
-<script src="/js/index.js"></script>
+<form id="chatForm">
+  <input type="text" name="nome" placeholder="Seu nome" required />
+  <textarea
+    name="mensagem"
+    placeholder="Digite sua mensagem..."
+    required
+  ></textarea>
+  <button type="submit">
+    Enviar
+  </button>
+</form>
+
+<hr />
+
+<h2>
+  Mensagens
+</h2>
+<ul>
+  {{#each mensagens}}
+    <li>
+      <strong>
+        {{this.nome}}
+      </strong>
+      : {{this.mensagem}}
+      <em>
+        ({{this.data}})
+      </em>
+    </li>
+  {{/each}}
+</ul>
+
+<script src="/js/chat.js"></script>

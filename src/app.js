@@ -59,7 +59,7 @@ server.listen(3000, () => {
   console.log("WEBSOCKET + EXPRESS RODANDO NA PORTA 3000");
 });
 
-// app.listen(3000, () => {
+// deixou de usar pra usar o websocket: app.listen(3000, () => {
 //   console.log("EXPRESS SERVER RUNNING ON PORT 3000 - BROWSER");
 // });
 
