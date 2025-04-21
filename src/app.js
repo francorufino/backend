@@ -28,8 +28,39 @@ app.get("/chat", (req, res) => {
   res.render("chat");
 });
 
-app.listen(3000, () => {
-  console.log("EXPRESS SERVER RUNNING ON PORT 3000 - BROWSER");
+const http = require("http");
+const server = http.createServer(app);
+
+const { Server } = require("socket.io");
+const io = new Server(server);
+
+io.on("connection", (socket) => {
+  console.log(
+    "PASSOU PELO SOCKET IO.ON CONNECTION -> Novo usuário conectado no chat"
+  );
+  console.log(`Usuário conectado: ${socket.id}`);
+  console.log(`DATA E HORA DA CONEXÃO: ${new Date().toLocaleString()}`);
+
+  socket.on("chatMessage", (msg) => {
+    io.emit("chatMessage", msg);
+    console.log(
+      `PASSOU PELO SOCKET.ON CHAT MESSAGE -> Mensagem recebida: ${msg}`
+    );
+  });
+
+  socket.on("disconnect", () => {
+    console.log("PASSOU PELO SOCKET.ON DISCONNET: Usuário saiu do chat");
+    console.log(`Usuário desconectado: ${socket.id}`);
+    console.log(`DATA E HORA DA DESCONECT: ${new Date().toLocaleString()}`);
+  });
 });
+
+server.listen(3000, () => {
+  console.log("WEBSOCKET + EXPRESS RODANDO NA PORTA 3000");
+});
+
+// app.listen(3000, () => {
+//   console.log("EXPRESS SERVER RUNNING ON PORT 3000 - BROWSER");
+// });
 
 module.exports = app;
