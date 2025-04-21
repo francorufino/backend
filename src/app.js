@@ -5,6 +5,8 @@ const path = require("path");
 const pathView = path.join(`${__dirname}/views`);
 const usersRouter = require("./routes/users.router");
 const viewsRouter = require("./routes/views.route");
+const chatMessage = require("./models/chatmessage.model");
+
 const app = express();
 
 app.use(express.json());
@@ -24,8 +26,9 @@ app.use("/users", usersRouter);
 app.use("/static", express.static(staticPath));
 app.use("/", viewsRouter);
 
-app.get("/chat", (req, res) => {
-  res.render("chat");
+app.get("/chat", async (req, res) => {
+  const mensagens = await chatMessage.find().sort({ createdAt: 1 });
+  res.render("chat", { mensagens });
 });
 
 const http = require("http");
@@ -41,11 +44,16 @@ io.on("connection", (socket) => {
   console.log(`Usuário conectado: ${socket.id}`);
   console.log(`DATA E HORA DA CONEXÃO: ${new Date().toLocaleString()}`);
 
-  socket.on("chatMessage", (msg) => {
+  socket.on("chatMessage", async (msg) => {
+    console.log("PASSOU PELO SOCKET.ON CHAT MESSAGE -> Mensagem recebida:");
+    console.log(msg);
+
+    await chatMessage.create({
+      user: msg.user,
+      message: msg.message,
+    });
+
     io.emit("chatMessage", msg);
-    console.log(
-      `PASSOU PELO SOCKET.ON CHAT MESSAGE -> Mensagem recebida: ${msg}`
-    );
   });
 
   socket.on("disconnect", () => {

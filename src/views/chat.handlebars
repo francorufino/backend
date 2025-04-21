@@ -3,8 +3,16 @@
 </h1>
 
 <form id="chatForm">
-  <input type="text" name="nome" placeholder="Seu nome" required />
+  <input
+    type="text"
+    id="nomeInput"
+    name="nome"
+    placeholder="Seu nome"
+    required
+  />
+
   <textarea
+    id="msgInput"
     name="mensagem"
     placeholder="Digite sua mensagem..."
     required
@@ -19,7 +27,7 @@
 <h2>
   Mensagens
 </h2>
-<ul>
+<ul id="messages">
   {{#each mensagens}}
     <li>
       <strong>
