@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 
 connection();
 
-const staticPath = path.join(__dirname, "..", "public");
+const staticPath = path.join(__dirname, "public");
 console.log("RETORNO DO STATIC PATH VINDO DO APP.JS:");
 console.log(staticPath);
 
