@@ -4,6 +4,10 @@ const connection = () => {
   return (module.exports = mongoose
     .connect(process.env.MONGO_URI)
     .then(() => {
+      console.log(
+        "LAST DATE AND TIME OF CONNECTION WITH MONGO DB:" +
+          new Date().toLocaleString()
+      );
       console.log("ENTROU NA CONEXAO DO MONGOOSE DO APP.JS E DEU BOM:");
       console.log("MongoDB Connected!");
     })

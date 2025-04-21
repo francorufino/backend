@@ -11,7 +11,7 @@ router.get("/register", (req, res) => {
 });
 
 router.get("/list", async (req, res) => {
-  const users = await userService;
+  const users = await userService.getUsers();
   res.render("list", { users });
 });
 

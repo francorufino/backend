@@ -1,9 +1,9 @@
 const express = require("express");
 const connection = require("./db/db");
-const usersRouter = require("./routes/users.router");
 const handlebars = require("express-handlebars");
 const path = require("path");
 const pathView = path.join(`${__dirname}/views`);
+const usersRouter = require("./routes/users.router");
 const viewsRouter = require("./routes/views.route");
 const app = express();
 
