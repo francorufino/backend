@@ -24,6 +24,10 @@ app.use("/users", usersRouter);
 app.use("/static", express.static(staticPath));
 app.use("/", viewsRouter);
 
+app.get("/chat", (req, res) => {
+  res.render("chat");
+});
+
 app.listen(3000, () => {
   console.log("EXPRESS SERVER RUNNING ON PORT 3000 - BROWSER");
 });
