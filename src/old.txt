@@ -1,0 +1,3 @@
+// deixou de usar pra usar o websocket: app.listen(3000, () => {
+//   console.log("EXPRESS SERVER RUNNING ON PORT 3000 - BROWSER");
+// }); isso era no app.js
