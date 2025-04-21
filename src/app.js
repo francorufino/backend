@@ -27,7 +27,7 @@ app.use("/static", express.static(staticPath));
 app.use("/", viewsRouter);
 
 app.get("/chat", async (req, res) => {
-  const mensagens = await chatMessage.find().sort({ createdAt: 1 });
+  const mensagens = await chatMessage.find().sort({ createdAt: 1 }).lean();
   res.render("chat", { mensagens });
 });
 
