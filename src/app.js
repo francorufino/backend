@@ -7,6 +7,7 @@ const usersRouter = require("./routes/users.router");
 const viewsRouter = require("./routes/views.route");
 const chatMessage = require("./dao/chatmessage.model");
 const productsApiRouter = require("./api/products.router");
+const ordersRouter = require("./api/orders.router");
 // const productsRouter = require("./routes/products.router");
 
 const app = express();
@@ -37,6 +38,8 @@ app.get("/chat", async (req, res) => {
   const mensagens = await chatMessage.find().sort({ createdAt: 1 }).lean();
   res.render("chat", { mensagens });
 });
+
+app.use("/api/orders", ordersRouter);
 
 const http = require("http");
 const server = http.createServer(app);

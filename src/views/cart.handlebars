@@ -1,34 +1,20 @@
 <h1 style="text-align: center;">
-  Meu Carrinho
+  Seu Carrinho
 </h1>
 
-<div id="cart-container" style="max-width: 800px; margin: auto;">
-  <table style="width: 100%; border-collapse: collapse; margin-bottom: 2rem;">
-    <thead>
-      <tr>
-        <th style="text-align: left;">
-          Produto
-        </th>
-        <th>
-          Preço
-        </th>
-        <th>
-          Quantidade
-        </th>
-        <th>
-          Subtotal
-        </th>
-        <th>
-          Ações
-        </th>
-      </tr>
-    </thead>
-    <tbody id="cart-items"></tbody>
-  </table>
-
-  <h2 id="total-amount" style="text-align: right;">
-    Total: R$ 0,00
-  </h2>
+<div id="cart-container" style="max-width: 800px; margin: 0 auto;">
+  <div id="cart-items"></div>
+  <div style="text-align: right; font-size: 1.2rem; margin-top: 1rem;">
+    <strong>
+      Total: R$
+      <span id="total">
+        0.00
+      </span>
+    </strong>
+  </div>
+  <button id="checkout-btn" style="margin-top: 1rem;">
+    Finalizar Compra
+  </button>
 </div>
 
-<script src="/static/js/cart.js" defer></script>
+<script src="/static/js/cart.js"></script>

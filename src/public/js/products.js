@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const productList = document.getElementById("product-list");
   const currentPageLabel = document.getElementById("currentPage");
 
-  const cart = [];
+  let cart = JSON.parse(localStorage.getItem("cart")) || [];
 
   function loadProducts() {
     const category = categorySelect.value;
@@ -113,13 +113,21 @@ document.addEventListener("DOMContentLoaded", () => {
         id: productId,
         name: productCard.querySelector("h3").innerText,
         quantity: quantity,
-        total: (price * quantity).toFixed(2),
+        price: price,
+        total: price * quantity,
       };
 
       cart.push(product);
-      console.log("Carrinho atualizado:", cart);
+      localStorage.setItem("cart", JSON.stringify(cart));
+
+      console.log(
+        "PASSOU PELO CART LOGO DEPOIS DO PUSH E AGORA O CARRINHO EH:"
+      );
+      console.log(cart);
       alert(
-        `Adicionado ${quantity}x ${product.name} ao carrinho! Total: R$ ${product.total}`
+        `Adicionado ${quantity}x ${
+          product.name
+        } ao carrinho! Total: R$ ${product.total.toFixed(2)}`
       );
     }
   });
