@@ -4,20 +4,26 @@ const productModel = require("../dao/products.model");
 
 router.get("/", async (req, res) => {
   try {
-    const { page = 1, limit = 10, category, sort, search } = req.query;
+    const { page = 1, limit = 9, category, sort, search } = req.query;
 
     let filter = {};
+
+    // Filtro por categoria (case insensitive)
     if (category) {
-      filter.category = category;
-    }
-    if (search) {
-      filter.name = { $regex: search, $options: "i" }; // busca parcial e case-insensitive
+      filter.category = new RegExp(`^${category}$`, "i"); // usa regex para ignorar maiúsculas/minúsculas
     }
 
+    // Filtro por nome com busca parcial
+    if (search) {
+      filter.name = { $regex: search, $options: "i" };
+    }
+
+    // Opções de ordenação
     let sortOption = {};
     if (sort === "asc") sortOption.price = 1;
     if (sort === "desc") sortOption.price = -1;
 
+    // Paginação
     const options = {
       page: parseInt(page),
       limit: parseInt(limit),
