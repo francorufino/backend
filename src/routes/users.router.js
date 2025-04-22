@@ -43,6 +43,7 @@ router.post("/", uploader.single("avatar"), async (req, res) => {
       password,
       avatar: avatarPath,
     });
+
     console.log("PASSOU PELO TRY DO POST E CRIOU O USER:");
     console.log(newUser);
     console.log("DADOS RECEBIDOS NO POST:");
@@ -61,6 +62,7 @@ router.post("/", uploader.single("avatar"), async (req, res) => {
         first_name: newUser.first_name,
         last_name: newUser.last_name,
         email: newUser.email,
+        avatar: newUser.avatar, // <-- ESSENCIAL PARA EXIBIR A FOTO
         lastLogin: new Date().toLocaleString("pt-BR"),
       },
       products,

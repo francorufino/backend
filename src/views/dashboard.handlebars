@@ -2,6 +2,14 @@
   Olá, {{user.first_name}}!
 </h1>
 
+{{#if user.avatar}}
+  <img src="{{user.avatar}}" alt="Avatar de {{user.first_name}}" width="150" />
+{{else}}
+  <p>
+    Sem avatar
+  </p>
+{{/if}}
+
 <p>
   Bem-vindo ao seu cantinho. Aqui você pode ver suas informações pessoais e
   acompanhar sua atividade.
@@ -10,7 +18,7 @@
 <hr />
 
 <h2>
-  🧾 Informações da sua conta:
+  Informações da sua conta:
 </h2>
 <ul>
   <li>
