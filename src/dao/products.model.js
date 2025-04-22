@@ -10,6 +10,7 @@ const productSchema = new mongoose.Schema({
   category: String,
   stock: Number,
   status: Boolean,
+  image: String,
 });
 
 productSchema.plugin(mongoosePaginate);

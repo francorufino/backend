@@ -1,0 +1,1703 @@
+[
+  {
+    "name": "Sed Dolore Minim",
+    "description": "Ea ipsum et duis dolor incididunt cillum eu elit esse elit duis sed ipsum consectetur adipiscing dolor laboris eu lorem aliquip eiusmod eu ut dolore velit in ullamco elit et veniam.",
+    "price": 1246.29,
+    "category": "roupas femininas",
+    "stock": 63,
+    "status": true,
+    "image": "img/products/roupasfemininas1.jpg"
+  },
+  {
+    "name": "Magna Aliqua Ut",
+    "description": "Ipsum adipiscing tempor commodo exercitation ex commodo sed quis laboris dolor adipiscing exercitation minim dolore ut do aute sit voluptate exercitation et enim ex in elit quis ad sed ut enim dolore.",
+    "price": 1042.03,
+    "category": "roupas femininas",
+    "stock": 61,
+    "status": true,
+    "image": "img/products/roupasfemininas2.jpg"
+  },
+  {
+    "name": "Dolor Tempor Eiusmod",
+    "description": "Tempor dolore in dolore duis reprehenderit amet velit amet do eiusmod ut sed fugiat cillum commodo aute amet veniam ad do aute ex consectetur amet labore fugiat aliquip consectetur dolore elit dolore dolore et adipiscing eu eu ut dolore.",
+    "price": 1713.06,
+    "category": "roupas femininas",
+    "stock": 91,
+    "status": true,
+    "image": "img/products/roupasfemininas3.jpg"
+  },
+  {
+    "name": "Sit Do Elit",
+    "description": "Irure reprehenderit minim aliquip minim in magna quis minim reprehenderit labore lorem magna ut lorem commodo adipiscing veniam lorem quis quis tempor voluptate nisi adipiscing incididunt aliqua nisi consequat ea adipiscing dolor dolor magna fugiat elit fugiat irure ullamco consectetur dolore sed velit dolor.",
+    "price": 1551.33,
+    "category": "roupas femininas",
+    "stock": 72,
+    "status": true,
+    "image": "img/products/roupasfemininas4.jpg"
+  },
+  {
+    "name": "Sed Enim Adipiscing",
+    "description": "Commodo et eu aliqua dolore nisi aute in commodo tempor quis do adipiscing nostrud ex dolor eiusmod eu dolor fugiat ut veniam commodo nostrud ut dolore consequat commodo ex sit ex magna ut nisi do et sit.",
+    "price": 298.27,
+    "category": "roupas femininas",
+    "stock": 79,
+    "status": true,
+    "image": "img/products/roupasfemininas5.jpg"
+  },
+  {
+    "name": "Enim Do Ipsum",
+    "description": "Do magna ullamco ut veniam cillum ut ex dolor consequat do adipiscing sit in incididunt duis cillum et consectetur cillum voluptate in dolore in elit duis quis minim ullamco minim esse aute in exercitation dolor magna in do exercitation dolore enim quis in nisi ipsum nisi adipiscing.",
+    "price": 660.46,
+    "category": "roupas femininas",
+    "stock": 40,
+    "status": true,
+    "image": "img/products/roupasfemininas6.jpg"
+  },
+  {
+    "name": "Dolor Incididunt Enim",
+    "description": "Ullamco ullamco in in quis laboris dolor ipsum cillum enim et velit in veniam elit exercitation ad ex dolor in fugiat fugiat nostrud consectetur enim dolor laboris exercitation et ut sed sit amet dolor nisi do ut ut minim nisi veniam aliquip reprehenderit ut adipiscing aliqua ea labore quis.",
+    "price": 370.11,
+    "category": "roupas femininas",
+    "stock": 50,
+    "status": true,
+    "image": "img/products/roupasfemininas7.jpg"
+  },
+  {
+    "name": "Incididunt Veniam Elit",
+    "description": "Consequat sed quis sit amet lorem nisi dolore do eiusmod dolore labore minim in duis reprehenderit laboris laboris amet ad commodo exercitation aliquip eiusmod eu voluptate reprehenderit sit aliqua consequat nisi voluptate ut voluptate dolor consequat nostrud ut labore nisi veniam tempor in nostrud magna.",
+    "price": 1612.05,
+    "category": "roupas femininas",
+    "stock": 91,
+    "status": true,
+    "image": "img/products/roupasfemininas8.jpg"
+  },
+  {
+    "name": "Eiusmod Elit Incididunt",
+    "description": "In voluptate nostrud ipsum duis labore veniam magna veniam ut ut enim lorem ipsum consequat ipsum nisi minim minim ut lorem ipsum in ullamco commodo labore velit labore ut ut in eiusmod labore nisi consectetur reprehenderit duis consequat lorem fugiat laboris ea dolore.",
+    "price": 318.19,
+    "category": "roupas femininas",
+    "stock": 42,
+    "status": true,
+    "image": "img/products/roupasfemininas9.jpg"
+  },
+  {
+    "name": "Magna Ipsum Elit",
+    "description": "Consectetur sit aliquip aliqua cillum ad irure reprehenderit et elit do duis ad veniam nostrud aliquip reprehenderit duis dolor sit ad fugiat dolore sit aliquip fugiat ad elit reprehenderit minim.",
+    "price": 151.83,
+    "category": "roupas femininas",
+    "stock": 99,
+    "status": true,
+    "image": "img/products/roupasfemininas10.jpg"
+  },
+  {
+    "name": "Magna Enim Veniam",
+    "description": "Esse in aute magna ea reprehenderit ex aute cillum consectetur labore dolore reprehenderit esse do exercitation veniam do ea duis cillum sed aliqua commodo dolore nisi quis enim eiusmod cillum et tempor ut quis quis voluptate eiusmod exercitation in laboris nostrud in ullamco dolor tempor elit fugiat in adipiscing.",
+    "price": 1130.09,
+    "category": "roupas femininas",
+    "stock": 94,
+    "status": true,
+    "image": "img/products/roupasfemininas11.jpg"
+  },
+  {
+    "name": "Ipsum Consectetur Adipiscing",
+    "description": "Et eiusmod dolore irure commodo magna aute adipiscing adipiscing minim ipsum consequat cillum ut irure dolore magna ut dolor minim nostrud consectetur eu aliqua laboris dolor eu quis fugiat consequat ut irure aliquip et velit aute.",
+    "price": 861.25,
+    "category": "roupas femininas",
+    "stock": 73,
+    "status": true,
+    "image": "img/products/roupasfemininas12.jpg"
+  },
+  {
+    "name": "Enim Sit Sed",
+    "description": "Sed aute ut fugiat quis sed irure ex dolor ex dolore sed et adipiscing minim consectetur aliquip irure ut aute labore aliqua dolore irure in consectetur velit elit irure labore irure irure et fugiat tempor magna lorem commodo ipsum aute tempor ad ut aute sit ut et cillum ut.",
+    "price": 105.02,
+    "category": "roupas femininas",
+    "stock": 44,
+    "status": true,
+    "image": "img/products/roupasfemininas13.jpg"
+  },
+  {
+    "name": "Do Sed Dolor",
+    "description": "Quis velit cillum et laboris ut tempor incididunt nostrud adipiscing duis ullamco incididunt ipsum ullamco velit in consequat enim consectetur enim cillum ullamco in adipiscing tempor elit do et tempor dolor adipiscing eu ad sit consectetur veniam commodo cillum fugiat ipsum.",
+    "price": 1789.59,
+    "category": "roupas femininas",
+    "stock": 71,
+    "status": true,
+    "image": "img/products/roupasfemininas14.jpg"
+  },
+  {
+    "name": "Dolor Enim Labore",
+    "description": "Consequat dolor reprehenderit cillum nisi elit velit in commodo irure ut incididunt dolor incididunt ut velit duis aute veniam fugiat ea fugiat dolore magna in amet ipsum commodo sit adipiscing et ut incididunt nostrud.",
+    "price": 652.85,
+    "category": "roupas femininas",
+    "stock": 38,
+    "status": true,
+    "image": "img/products/roupasfemininas15.jpg"
+  },
+  {
+    "name": "Veniam Elit Ut",
+    "description": "Aliquip minim irure do duis dolor duis nisi labore aliqua aute quis in do aute sed aliqua ullamco dolor velit amet in aliqua duis nostrud reprehenderit ut reprehenderit lorem sed dolor consectetur ut ullamco duis aliquip aliqua sed do irure.",
+    "price": 1135.85,
+    "category": "roupas femininas",
+    "stock": 48,
+    "status": true,
+    "image": "img/products/roupasfemininas16.jpg"
+  },
+  {
+    "name": "Sit Labore Consectetur",
+    "description": "Ut nostrud reprehenderit commodo consequat nisi nostrud ipsum sit duis aliqua enim do dolor irure ex in dolor amet consequat minim aliquip sit eiusmod adipiscing ullamco aliquip labore dolor velit ex sed ipsum enim minim fugiat dolore exercitation esse duis dolore minim nostrud ut aliqua ad dolore magna laboris enim.",
+    "price": 1879.96,
+    "category": "roupas femininas",
+    "stock": 69,
+    "status": true,
+    "image": "img/products/roupasfemininas17.jpg"
+  },
+  {
+    "name": "Ipsum Magna Adipiscing",
+    "description": "Do tempor sit veniam magna adipiscing aliquip amet exercitation ad laboris do duis ipsum laboris nisi cillum ipsum amet consectetur duis ut exercitation ex nisi amet labore nisi dolor laboris enim ut eiusmod ipsum amet incididunt sit consequat sit esse incididunt ut amet in magna enim minim dolor sit ea.",
+    "price": 137.57,
+    "category": "roupas femininas",
+    "stock": 79,
+    "status": true,
+    "image": "img/products/roupasfemininas18.jpg"
+  },
+  {
+    "name": "Minim Tempor Ut",
+    "description": "Ullamco aliqua ut lorem do amet labore ut ut dolore cillum consectetur in veniam laboris ut nisi aliqua exercitation duis tempor sed tempor amet in in reprehenderit do ut commodo exercitation dolore ea ipsum sit incididunt sed exercitation.",
+    "price": 639.86,
+    "category": "roupas femininas",
+    "stock": 33,
+    "status": true,
+    "image": "img/products/roupasfemininas19.jpg"
+  },
+  {
+    "name": "Do Veniam Ut",
+    "description": "Ad duis lorem dolore duis cillum voluptate sed tempor reprehenderit enim dolore in sit sed do ut veniam commodo ea cillum ea cillum aute ipsum dolor et ut duis quis do dolore esse dolor reprehenderit esse in elit dolore do adipiscing voluptate ipsum magna.",
+    "price": 1836.35,
+    "category": "roupas femininas",
+    "stock": 6,
+    "status": true,
+    "image": "img/products/roupasfemininas20.jpg"
+  },
+  {
+    "name": "Incididunt Magna Labore",
+    "description": "Laboris voluptate dolore esse commodo aute et in veniam nostrud esse elit in incididunt ipsum enim minim tempor aute ullamco et eu ea consequat irure exercitation quis velit dolor dolore consectetur reprehenderit velit velit reprehenderit consectetur aute reprehenderit enim ad.",
+    "price": 284.33,
+    "category": "roupas femininas",
+    "stock": 90,
+    "status": true,
+    "image": "img/products/roupasfemininas21.jpg"
+  },
+  {
+    "name": "Sit Amet Elit",
+    "description": "Consequat irure consectetur enim quis in aute in dolore ut do lorem laboris eiusmod irure cillum ipsum ipsum voluptate ea ipsum minim in cillum aliquip eiusmod nisi velit dolore ad labore ex consectetur.",
+    "price": 950.81,
+    "category": "roupas masculinas",
+    "stock": 98,
+    "status": true,
+    "image": "img/products/roupasmasculinas1.jpg"
+  },
+  {
+    "name": "Sed Labore Veniam",
+    "description": "Dolore elit reprehenderit minim aute dolor dolore magna laboris laboris nostrud ullamco elit sed enim esse sit do lorem commodo dolore enim elit sed laboris commodo et exercitation ut duis adipiscing enim minim.",
+    "price": 444.23,
+    "category": "roupas masculinas",
+    "stock": 90,
+    "status": true,
+    "image": "img/products/roupasmasculinas2.jpg"
+  },
+  {
+    "name": "Lorem Dolor Eiusmod",
+    "description": "Dolor consequat et in fugiat ipsum ut ut dolore lorem dolor adipiscing ut ullamco veniam nisi reprehenderit aliquip laboris ea elit ex incididunt aliqua laboris ex et nisi labore ea eu elit consequat aliquip ut aute ut aute dolor labore.",
+    "price": 1691.51,
+    "category": "roupas masculinas",
+    "stock": 50,
+    "status": true,
+    "image": "img/products/roupasmasculinas3.jpg"
+  },
+  {
+    "name": "Tempor Adipiscing Aliqua",
+    "description": "Ex veniam esse magna ut dolore ut labore commodo cillum velit in et cillum velit adipiscing dolor ex enim aliquip elit commodo aliqua nostrud labore velit exercitation nisi tempor aute incididunt commodo ipsum esse esse sed nostrud laboris eu cillum exercitation sed ipsum voluptate exercitation.",
+    "price": 1008.42,
+    "category": "roupas masculinas",
+    "stock": 39,
+    "status": true,
+    "image": "img/products/roupasmasculinas4.jpg"
+  },
+  {
+    "name": "Ut Amet Dolore",
+    "description": "In dolore dolore amet cillum adipiscing in dolor aliqua aute elit nisi lorem aute aliqua velit laboris dolore in tempor lorem minim enim duis fugiat nisi laboris magna veniam tempor do dolor magna nisi aute veniam veniam ullamco aute et dolor.",
+    "price": 1608.77,
+    "category": "roupas masculinas",
+    "stock": 11,
+    "status": true,
+    "image": "img/products/roupasmasculinas5.jpg"
+  },
+  {
+    "name": "Tempor Dolore Sit",
+    "description": "Veniam reprehenderit enim in elit dolore eu nostrud sed dolore sed ullamco eu dolore et irure eu irure aliquip aliquip amet eu ea do irure dolor reprehenderit dolor elit nisi enim fugiat et dolore sed in commodo dolor dolor aute consectetur esse dolore aute reprehenderit velit.",
+    "price": 1088.14,
+    "category": "roupas masculinas",
+    "stock": 46,
+    "status": true,
+    "image": "img/products/roupasmasculinas6.jpg"
+  },
+  {
+    "name": "Sed Incididunt Enim",
+    "description": "Voluptate ut nostrud ut in veniam irure tempor ut reprehenderit ipsum consectetur incididunt ullamco dolore dolor do minim aliquip sed duis nostrud ut consequat ex in consequat ipsum in reprehenderit in in amet aliquip nostrud dolor eiusmod aute magna cillum aute fugiat aliquip lorem voluptate dolor eu dolore ex dolore.",
+    "price": 1129.99,
+    "category": "roupas masculinas",
+    "stock": 48,
+    "status": true,
+    "image": "img/products/roupasmasculinas7.jpg"
+  },
+  {
+    "name": "Amet Sed Lorem",
+    "description": "Irure dolore ipsum tempor tempor eu commodo dolore ut consequat dolor consectetur quis ea in et voluptate ut lorem ad elit sit consectetur incididunt ullamco ullamco veniam lorem magna enim labore ex duis consectetur tempor duis cillum voluptate consectetur adipiscing commodo lorem.",
+    "price": 1557.85,
+    "category": "roupas masculinas",
+    "stock": 16,
+    "status": true,
+    "image": "img/products/roupasmasculinas8.jpg"
+  },
+  {
+    "name": "Sed Lorem Labore",
+    "description": "Dolor ut elit veniam elit velit velit minim sit eu ad ut dolor aliqua nisi minim dolor eu aute enim in aliqua dolor dolor in consequat eiusmod adipiscing veniam consequat dolor elit consequat incididunt eu minim labore incididunt duis in sed sed minim aute incididunt fugiat quis adipiscing do.",
+    "price": 1047.92,
+    "category": "roupas masculinas",
+    "stock": 41,
+    "status": true,
+    "image": "img/products/roupasmasculinas9.jpg"
+  },
+  {
+    "name": "Eiusmod Amet Ipsum",
+    "description": "Exercitation in ullamco aliquip consectetur do veniam ut aute ex consequat ad ipsum ea reprehenderit ex eiusmod tempor consequat ipsum ut ea minim ea irure labore commodo reprehenderit dolor fugiat nisi dolore velit minim esse eu enim ut elit laboris in adipiscing ut.",
+    "price": 1584.04,
+    "category": "roupas masculinas",
+    "stock": 56,
+    "status": true,
+    "image": "img/products/roupasmasculinas10.jpg"
+  },
+  {
+    "name": "Minim Dolore Ut",
+    "description": "Veniam ipsum ea sed et adipiscing labore sit quis quis reprehenderit sit consectetur dolore ut minim laboris veniam dolore irure et minim quis velit duis velit ex consectetur adipiscing quis ut consequat dolor ut magna nisi dolor elit ut eu.",
+    "price": 515.89,
+    "category": "roupas masculinas",
+    "stock": 20,
+    "status": true,
+    "image": "img/products/roupasmasculinas11.jpg"
+  },
+  {
+    "name": "Dolore Elit Enim",
+    "description": "Ullamco ut cillum consequat aliquip ea sit velit ex reprehenderit aliquip irure adipiscing tempor ipsum consectetur aliquip consequat enim cillum exercitation adipiscing in consequat dolor in aute consequat commodo commodo amet.",
+    "price": 1759.77,
+    "category": "roupas masculinas",
+    "stock": 58,
+    "status": true,
+    "image": "img/products/roupasmasculinas12.jpg"
+  },
+  {
+    "name": "Incididunt Minim Dolore",
+    "description": "Labore quis in ut eu eiusmod esse aute dolor ipsum ullamco aliquip voluptate elit adipiscing veniam sed quis dolore veniam in aliqua ut aliquip fugiat eu ut ullamco minim sed in velit.",
+    "price": 436.72,
+    "category": "roupas masculinas",
+    "stock": 73,
+    "status": true,
+    "image": "img/products/roupasmasculinas13.jpg"
+  },
+  {
+    "name": "Do Consectetur Dolor",
+    "description": "Dolore reprehenderit ut amet ea dolor exercitation aliqua in enim reprehenderit dolor ut ad enim dolore consectetur dolor irure esse dolor incididunt ad nostrud fugiat esse eiusmod amet elit nostrud ex magna aute in magna aute tempor ad nostrud ex labore dolore amet.",
+    "price": 261.16,
+    "category": "roupas masculinas",
+    "stock": 49,
+    "status": true,
+    "image": "img/products/roupasmasculinas14.jpg"
+  },
+  {
+    "name": "Sed Sit Dolor",
+    "description": "Velit quis exercitation dolore incididunt eu voluptate lorem ut voluptate dolore voluptate duis velit fugiat duis eu voluptate ad dolore consectetur dolore esse aliqua ea tempor ex aute lorem consectetur do ex tempor quis ipsum consectetur enim nisi et ex exercitation in ullamco cillum velit.",
+    "price": 525.64,
+    "category": "roupas masculinas",
+    "stock": 48,
+    "status": true,
+    "image": "img/products/roupasmasculinas15.jpg"
+  },
+  {
+    "name": "Minim Incididunt Eiusmod",
+    "description": "Ipsum ipsum cillum enim sed quis velit incididunt ea nostrud eu dolore reprehenderit commodo in dolor aliqua dolor do ea ut ad velit dolore ut duis eu consequat amet veniam tempor sed ea fugiat do lorem esse.",
+    "price": 1489.57,
+    "category": "roupas masculinas",
+    "stock": 25,
+    "status": true,
+    "image": "img/products/roupasmasculinas16.jpg"
+  },
+  {
+    "name": "Magna Enim Tempor",
+    "description": "Commodo ut adipiscing exercitation esse ex et ullamco ut commodo voluptate tempor dolor dolore aliquip incididunt aliquip esse commodo velit ut exercitation exercitation et sit magna ex dolore elit laboris consectetur ut magna tempor nisi reprehenderit veniam consectetur lorem ea reprehenderit elit velit eiusmod enim.",
+    "price": 1120.9,
+    "category": "roupas masculinas",
+    "stock": 15,
+    "status": true,
+    "image": "img/products/roupasmasculinas17.jpg"
+  },
+  {
+    "name": "Veniam Sed Ipsum",
+    "description": "Amet ut lorem fugiat labore ullamco cillum voluptate duis laboris dolore veniam sed cillum aute eu consectetur elit sit irure adipiscing dolore voluptate veniam sed ea adipiscing cillum amet ex commodo aute dolore incididunt eiusmod fugiat ut esse amet dolor ex laboris esse magna nostrud in esse velit minim ea.",
+    "price": 1394.03,
+    "category": "roupas masculinas",
+    "stock": 10,
+    "status": true,
+    "image": "img/products/roupasmasculinas18.jpg"
+  },
+  {
+    "name": "Veniam Incididunt Amet",
+    "description": "Dolore labore duis do irure laboris reprehenderit et adipiscing consequat eiusmod eu lorem in duis et consectetur consectetur ex nisi in adipiscing ea lorem aute velit nostrud ex commodo cillum fugiat aliquip ut enim velit quis incididunt do in fugiat incididunt velit dolore consequat cillum duis fugiat fugiat adipiscing.",
+    "price": 196.39,
+    "category": "roupas masculinas",
+    "stock": 16,
+    "status": true,
+    "image": "img/products/roupasmasculinas19.jpg"
+  },
+  {
+    "name": "Enim Eiusmod Magna",
+    "description": "Cillum irure quis commodo duis ut consectetur consectetur dolor nisi et ut fugiat dolor aliqua in commodo nostrud consectetur sit enim ea sit ut ut irure sed laboris ea aliquip ipsum velit velit voluptate consectetur enim ut cillum aliqua eu quis esse sit nisi veniam magna.",
+    "price": 360.21,
+    "category": "roupas masculinas",
+    "stock": 62,
+    "status": true,
+    "image": "img/products/roupasmasculinas20.jpg"
+  },
+  {
+    "name": "Ut Ipsum Incididunt",
+    "description": "Nisi eu ipsum do consequat tempor ut elit incididunt aliqua et dolor in in quis nisi dolor duis magna ut sed elit dolor ullamco duis ut eu ad ipsum elit amet et minim sed quis veniam ullamco lorem.",
+    "price": 1469.0,
+    "category": "roupas masculinas",
+    "stock": 68,
+    "status": true,
+    "image": "img/products/roupasmasculinas21.jpg"
+  },
+  {
+    "name": "Adipiscing Dolore Tempor",
+    "description": "Dolor ipsum elit ex nostrud tempor cillum dolor dolore ex nostrud sed velit aute voluptate adipiscing in minim nisi commodo in in laboris duis dolor ut irure aliqua eiusmod ex labore ipsum dolor irure dolore aute dolore ut velit ipsum ut sed incididunt amet ut eu.",
+    "price": 1014.42,
+    "category": "acessorios",
+    "stock": 79,
+    "status": true,
+    "image": "img/products/acessorios1.jpg"
+  },
+  {
+    "name": "Tempor Incididunt Aliqua",
+    "description": "Dolor lorem consectetur ex veniam et tempor laboris lorem ipsum veniam eiusmod voluptate irure dolore commodo do ipsum velit in enim dolor exercitation dolore ullamco duis ex eiusmod et nostrud eiusmod ut magna minim tempor nisi in elit quis lorem dolore cillum enim commodo.",
+    "price": 572.67,
+    "category": "acessorios",
+    "stock": 78,
+    "status": true,
+    "image": "img/products/acessorios2.jpg"
+  },
+  {
+    "name": "Adipiscing Incididunt Sed",
+    "description": "Incididunt consequat nostrud eu amet dolore dolor laboris ea adipiscing in commodo ea eiusmod duis ex voluptate in consectetur in ipsum aliquip eu veniam do dolor ex aliqua amet nostrud velit ut.",
+    "price": 1950.36,
+    "category": "acessorios",
+    "stock": 31,
+    "status": true,
+    "image": "img/products/acessorios3.jpg"
+  },
+  {
+    "name": "Dolor Magna Elit",
+    "description": "Ut sed aliquip incididunt fugiat minim eu fugiat dolor eu cillum amet ex cillum ea incididunt fugiat irure elit consectetur voluptate tempor incididunt reprehenderit enim lorem eiusmod irure elit dolore aliquip dolor tempor aute ut velit elit amet ut ad ut.",
+    "price": 417.13,
+    "category": "acessorios",
+    "stock": 93,
+    "status": true,
+    "image": "img/products/acessorios4.jpg"
+  },
+  {
+    "name": "Dolore Consectetur Ut",
+    "description": "Ea reprehenderit dolore amet veniam amet duis elit eiusmod ea aliqua adipiscing fugiat aliquip in laboris exercitation aliqua velit minim commodo incididunt exercitation eu veniam adipiscing aliquip consequat adipiscing dolore minim aliquip quis ex aute nostrud incididunt amet irure ipsum ad in ut sit enim dolor ex ut aliquip.",
+    "price": 1797.37,
+    "category": "acessorios",
+    "stock": 72,
+    "status": true,
+    "image": "img/products/acessorios5.jpg"
+  },
+  {
+    "name": "Veniam Dolor Sed",
+    "description": "Fugiat incididunt et minim eiusmod adipiscing ea ea magna ipsum ipsum ea reprehenderit ullamco ut commodo adipiscing sed exercitation ex ipsum nostrud incididunt aute laboris ut ut ut sed minim cillum aute eiusmod cillum.",
+    "price": 816.89,
+    "category": "acessorios",
+    "stock": 38,
+    "status": true,
+    "image": "img/products/acessorios6.jpg"
+  },
+  {
+    "name": "Lorem Consectetur Labore",
+    "description": "Consequat lorem ut veniam ipsum aliqua minim dolore enim adipiscing et irure ea aliqua consectetur consectetur ut ut sed voluptate sed dolore irure commodo aute aute et veniam ea duis ea ut aliquip consequat esse in quis esse eiusmod ut.",
+    "price": 1740.04,
+    "category": "acessorios",
+    "stock": 20,
+    "status": true,
+    "image": "img/products/acessorios7.jpg"
+  },
+  {
+    "name": "Adipiscing Aliqua Sed",
+    "description": "Et nostrud reprehenderit et in ut velit dolore ad sed lorem dolore eu ex exercitation magna adipiscing commodo enim quis aliquip lorem eu incididunt commodo aliquip aute tempor in fugiat elit ut elit duis irure veniam dolore consequat consequat voluptate ut minim eiusmod in ipsum labore.",
+    "price": 895.05,
+    "category": "acessorios",
+    "stock": 70,
+    "status": true,
+    "image": "img/products/acessorios8.jpg"
+  },
+  {
+    "name": "Eiusmod Minim Consectetur",
+    "description": "Aute lorem ipsum ut dolore voluptate aliquip laboris do dolor aute ullamco cillum velit consectetur fugiat ad cillum in tempor magna ea quis ut dolore sit et ea dolor tempor veniam exercitation ad dolor nostrud ut adipiscing ut labore in ut in aliquip.",
+    "price": 849.39,
+    "category": "acessorios",
+    "stock": 64,
+    "status": true,
+    "image": "img/products/acessorios9.jpg"
+  },
+  {
+    "name": "Amet Elit Aliqua",
+    "description": "Duis dolor duis voluptate ad ullamco quis commodo nisi in enim duis eu enim aliquip ullamco tempor laboris irure dolore commodo adipiscing ex ex ea ut exercitation in elit nisi duis.",
+    "price": 1276.35,
+    "category": "acessorios",
+    "stock": 30,
+    "status": true,
+    "image": "img/products/acessorios10.jpg"
+  },
+  {
+    "name": "Aliqua Ipsum Adipiscing",
+    "description": "Minim ad dolor ipsum ut ea irure in ea ut ullamco quis lorem duis eu in fugiat sit dolor esse fugiat nostrud magna incididunt reprehenderit dolor ut commodo minim dolor eu eiusmod reprehenderit ullamco adipiscing irure elit dolore labore ullamco ex.",
+    "price": 505.52,
+    "category": "acessorios",
+    "stock": 12,
+    "status": true,
+    "image": "img/products/acessorios11.jpg"
+  },
+  {
+    "name": "Adipiscing Dolor Tempor",
+    "description": "Magna veniam ipsum cillum magna incididunt duis ipsum et exercitation incididunt nisi magna voluptate enim nisi esse sit do ea velit nostrud dolor eu aute eiusmod minim nisi consectetur voluptate aute aliquip ad dolor ut quis minim elit ut consequat labore exercitation enim dolor ut ipsum velit ut do.",
+    "price": 1869.72,
+    "category": "acessorios",
+    "stock": 27,
+    "status": true,
+    "image": "img/products/acessorios12.jpg"
+  },
+  {
+    "name": "Dolore Sed Eiusmod",
+    "description": "Ullamco dolore aute labore esse ex veniam nisi et dolor consequat in veniam exercitation nostrud exercitation incididunt esse irure consectetur aliqua voluptate irure eiusmod enim exercitation aute minim magna laboris fugiat.",
+    "price": 217.93,
+    "category": "acessorios",
+    "stock": 63,
+    "status": true,
+    "image": "img/products/acessorios13.jpg"
+  },
+  {
+    "name": "Dolore Sit Magna",
+    "description": "Consectetur ut ex irure reprehenderit consequat eu ut ex eiusmod nostrud esse magna fugiat velit laboris magna ipsum exercitation in elit adipiscing nisi ut aute duis in eu reprehenderit elit elit ad.",
+    "price": 758.4,
+    "category": "acessorios",
+    "stock": 90,
+    "status": true,
+    "image": "img/products/acessorios14.jpg"
+  },
+  {
+    "name": "Minim Sed Veniam",
+    "description": "Consectetur in in aute voluptate eu ullamco dolor in ut dolor fugiat eu commodo commodo reprehenderit magna ut aute ea dolore in minim dolore ullamco dolor dolor ipsum esse dolor enim tempor exercitation veniam quis fugiat.",
+    "price": 1667.86,
+    "category": "acessorios",
+    "stock": 21,
+    "status": true,
+    "image": "img/products/acessorios15.jpg"
+  },
+  {
+    "name": "Veniam Elit Sed",
+    "description": "Do esse sit aute labore ut voluptate ut sed dolor ut minim voluptate sit do adipiscing ex aliqua ut tempor ut aliquip ut tempor aute ea ad sed quis in ipsum eu et voluptate ea in elit.",
+    "price": 1778.99,
+    "category": "acessorios",
+    "stock": 29,
+    "status": true,
+    "image": "img/products/acessorios16.jpg"
+  },
+  {
+    "name": "Aliqua Dolor Sit",
+    "description": "Commodo nisi cillum nisi in ut dolor eu esse sit eu nostrud nostrud in quis fugiat sed esse ea ut aliquip ullamco adipiscing aliquip reprehenderit magna do dolore ullamco in in lorem ea dolore aliqua aliqua labore veniam ad eiusmod et sit aliqua dolor minim.",
+    "price": 1636.9,
+    "category": "acessorios",
+    "stock": 83,
+    "status": true,
+    "image": "img/products/acessorios17.jpg"
+  },
+  {
+    "name": "Labore Tempor Elit",
+    "description": "Sit esse ut ea eiusmod cillum fugiat adipiscing irure irure ullamco ad aliqua ex velit ut eiusmod dolore nisi eu velit ad amet tempor consectetur ullamco adipiscing fugiat reprehenderit velit in magna ipsum veniam minim dolor consequat dolor adipiscing duis ullamco ipsum eu aute laboris amet reprehenderit ut.",
+    "price": 1460.77,
+    "category": "acessorios",
+    "stock": 96,
+    "status": true,
+    "image": "img/products/acessorios18.jpg"
+  },
+  {
+    "name": "Ut Elit Veniam",
+    "description": "Aliqua ex dolore enim cillum reprehenderit cillum exercitation nostrud aliquip ad magna commodo sed ea ipsum dolor duis esse dolore irure do labore ut sed incididunt ut irure dolor sed elit in tempor ut do incididunt reprehenderit reprehenderit eiusmod velit velit amet.",
+    "price": 1098.21,
+    "category": "acessorios",
+    "stock": 41,
+    "status": true,
+    "image": "img/products/acessorios19.jpg"
+  },
+  {
+    "name": "Dolore Elit Magna",
+    "description": "Et sit consectetur in commodo nostrud eu aliquip ullamco ut tempor tempor aliqua consectetur aute minim ea et ad in do fugiat dolore voluptate laboris ut ex labore eiusmod ea et.",
+    "price": 764.64,
+    "category": "acessorios",
+    "stock": 69,
+    "status": true,
+    "image": "img/products/acessorios20.jpg"
+  },
+  {
+    "name": "Aliqua Amet Incididunt",
+    "description": "Reprehenderit eu voluptate reprehenderit magna amet aute et dolore eiusmod consectetur et aliqua aliqua commodo ut dolore minim incididunt in ad tempor quis amet et do incididunt laboris do sed dolor do aute in ea.",
+    "price": 620.6,
+    "category": "acessorios",
+    "stock": 87,
+    "status": true,
+    "image": "img/products/acessorios21.jpg"
+  },
+  {
+    "name": "Eiusmod Aliqua Tempor",
+    "description": "Nostrud veniam labore minim esse ex laboris dolor do enim consectetur dolore in commodo eiusmod amet consequat dolore aliquip dolor commodo aliquip ut veniam exercitation adipiscing veniam duis aliquip nostrud et.",
+    "price": 1178.79,
+    "category": "beleza",
+    "stock": 53,
+    "status": true,
+    "image": "img/products/beleza1.jpg"
+  },
+  {
+    "name": "Dolor Consectetur Do",
+    "description": "Exercitation dolor consequat aliqua dolore commodo ut eu consectetur ea nisi velit enim in irure voluptate enim incididunt labore ut ea dolor dolore adipiscing duis dolor adipiscing consequat do ea quis aliqua amet dolore enim quis enim ea exercitation velit ut eiusmod elit exercitation ut aliquip dolor.",
+    "price": 1394.85,
+    "category": "beleza",
+    "stock": 83,
+    "status": true,
+    "image": "img/products/beleza2.jpg"
+  },
+  {
+    "name": "Elit Eiusmod Sit",
+    "description": "Enim ut quis amet ullamco tempor aliquip dolor consectetur ea amet eu consequat adipiscing labore et ad magna veniam elit veniam dolore irure fugiat laboris ea aute magna dolore aliqua amet reprehenderit.",
+    "price": 1492.45,
+    "category": "beleza",
+    "stock": 25,
+    "status": true,
+    "image": "img/products/beleza3.jpg"
+  },
+  {
+    "name": "Sed Do Elit",
+    "description": "Ipsum do reprehenderit magna sed ipsum enim ut reprehenderit tempor nisi sed velit nisi aute sed irure lorem amet consectetur tempor eu sed fugiat aliquip veniam irure nisi aliquip in commodo aliquip do.",
+    "price": 1385.25,
+    "category": "beleza",
+    "stock": 44,
+    "status": true,
+    "image": "img/products/beleza4.jpg"
+  },
+  {
+    "name": "Incididunt Veniam Enim",
+    "description": "Tempor ipsum tempor elit duis ad amet dolore nisi esse consectetur velit velit et lorem aute incididunt enim veniam in consectetur enim consequat et minim reprehenderit ullamco adipiscing in laboris.",
+    "price": 582.93,
+    "category": "beleza",
+    "stock": 38,
+    "status": true,
+    "image": "img/products/beleza5.jpg"
+  },
+  {
+    "name": "Sed Labore Do",
+    "description": "Tempor ullamco labore do tempor nostrud voluptate ea duis enim et magna duis incididunt ipsum ullamco aute nisi velit ad ullamco cillum elit duis ad ullamco eu ad aliqua elit voluptate elit irure duis quis incididunt cillum ut ullamco cillum minim.",
+    "price": 1671.75,
+    "category": "beleza",
+    "stock": 100,
+    "status": true,
+    "image": "img/products/beleza6.jpg"
+  },
+  {
+    "name": "Amet Veniam Eiusmod",
+    "description": "Incididunt nostrud reprehenderit duis nostrud commodo cillum ut consequat sed consectetur consectetur irure nostrud elit minim esse et quis ea reprehenderit ex nostrud ipsum do aliqua dolore tempor exercitation nisi magna veniam amet sit ut laboris ea ut.",
+    "price": 1509.34,
+    "category": "beleza",
+    "stock": 65,
+    "status": true,
+    "image": "img/products/beleza7.jpg"
+  },
+  {
+    "name": "Dolore Adipiscing Elit",
+    "description": "Elit labore dolor ex consectetur nisi ea ex et aliquip labore ut in voluptate ea in dolor ipsum et dolor consequat aliquip minim quis duis consectetur in sit irure dolore adipiscing labore ut do ullamco in commodo ipsum nostrud consequat cillum aute do ad.",
+    "price": 1047.81,
+    "category": "beleza",
+    "stock": 17,
+    "status": true,
+    "image": "img/products/beleza8.jpg"
+  },
+  {
+    "name": "Ut Dolore Dolor",
+    "description": "Adipiscing tempor eu labore incididunt velit ea aliquip voluptate reprehenderit incididunt labore commodo commodo incididunt lorem dolor enim cillum aliqua exercitation lorem in nostrud ut dolore ex duis consectetur aliquip nisi fugiat sit ea enim do consectetur irure esse dolor tempor.",
+    "price": 1870.52,
+    "category": "beleza",
+    "stock": 27,
+    "status": true,
+    "image": "img/products/beleza9.jpg"
+  },
+  {
+    "name": "Consectetur Minim Elit",
+    "description": "Aliqua consectetur ipsum aliquip ut cillum adipiscing duis sit aliquip fugiat dolor ea quis in sed ex esse aliqua commodo cillum cillum enim nisi tempor quis quis nostrud veniam magna eu voluptate ea esse ut dolor do tempor quis quis minim.",
+    "price": 1655.68,
+    "category": "beleza",
+    "stock": 90,
+    "status": true,
+    "image": "img/products/beleza10.jpg"
+  },
+  {
+    "name": "Veniam Magna Sed",
+    "description": "Fugiat magna commodo ullamco et in consectetur tempor irure ullamco quis labore in exercitation reprehenderit labore eiusmod exercitation voluptate amet ut eiusmod aute veniam lorem sit do voluptate dolor dolore esse irure lorem veniam sed fugiat ad dolor ad exercitation nisi eu dolore enim tempor.",
+    "price": 1062.93,
+    "category": "beleza",
+    "stock": 21,
+    "status": true,
+    "image": "img/products/beleza11.jpg"
+  },
+  {
+    "name": "Aliqua Sit Dolore",
+    "description": "Fugiat labore quis amet magna ut in sed dolore eiusmod ullamco enim dolore quis ut ad minim quis incididunt aute aute minim ipsum ex amet lorem nisi ullamco ut do sed.",
+    "price": 1563.87,
+    "category": "beleza",
+    "stock": 15,
+    "status": true,
+    "image": "img/products/beleza12.jpg"
+  },
+  {
+    "name": "Ut Dolore Veniam",
+    "description": "Aliquip adipiscing dolore ad sit dolor quis ut consequat nisi incididunt amet enim nostrud ad consequat ad magna ut ullamco in ullamco ut esse incididunt nisi in ut consequat do lorem elit quis commodo ea.",
+    "price": 852.59,
+    "category": "beleza",
+    "stock": 51,
+    "status": true,
+    "image": "img/products/beleza13.jpg"
+  },
+  {
+    "name": "Elit Aliqua Dolor",
+    "description": "Ullamco magna cillum nisi tempor cillum cillum ea voluptate ullamco nisi minim duis lorem irure adipiscing eiusmod fugiat veniam nostrud ea veniam velit labore dolore elit consequat ut incididunt consequat dolore et sit aliquip exercitation fugiat incididunt ullamco.",
+    "price": 1636.99,
+    "category": "beleza",
+    "stock": 73,
+    "status": true,
+    "image": "img/products/beleza14.jpg"
+  },
+  {
+    "name": "Magna Adipiscing Enim",
+    "description": "In eiusmod magna dolore esse elit magna tempor ea exercitation sit tempor esse veniam dolor laboris veniam ut et esse adipiscing enim aliquip ex consectetur dolor quis ut lorem consectetur elit minim do nisi esse magna labore amet.",
+    "price": 113.65,
+    "category": "beleza",
+    "stock": 79,
+    "status": true,
+    "image": "img/products/beleza15.jpg"
+  },
+  {
+    "name": "Sed Magna Elit",
+    "description": "Ea velit amet dolore laboris nisi lorem dolore ut dolore ut dolor amet aliqua aliqua duis amet ipsum consequat nisi duis exercitation commodo duis sit minim aliqua ipsum aute veniam ut nisi voluptate ad adipiscing ullamco incididunt lorem velit labore quis aliqua enim.",
+    "price": 263.01,
+    "category": "beleza",
+    "stock": 33,
+    "status": true,
+    "image": "img/products/beleza16.jpg"
+  },
+  {
+    "name": "Aliqua Eiusmod Labore",
+    "description": "Ad dolor dolore sed aliqua adipiscing elit velit magna cillum adipiscing ex dolor sit quis eu in ea irure magna fugiat veniam do lorem magna incididunt incididunt ullamco tempor enim veniam elit consequat in irure ipsum ipsum incididunt velit aute sit esse reprehenderit tempor aute fugiat exercitation exercitation minim.",
+    "price": 1610.82,
+    "category": "beleza",
+    "stock": 47,
+    "status": true,
+    "image": "img/products/beleza17.jpg"
+  },
+  {
+    "name": "Labore Aliqua Enim",
+    "description": "Velit reprehenderit ex eiusmod nisi ut labore reprehenderit duis sed dolore consequat magna veniam et aute veniam laboris reprehenderit minim ad eu adipiscing ut ullamco sit magna reprehenderit laboris consequat fugiat sit reprehenderit incididunt irure in labore dolor.",
+    "price": 1672.41,
+    "category": "beleza",
+    "stock": 61,
+    "status": true,
+    "image": "img/products/beleza18.jpg"
+  },
+  {
+    "name": "Veniam Enim Magna",
+    "description": "Amet sit esse do ipsum irure magna dolor incididunt incididunt adipiscing ad elit dolore quis magna dolor duis in do commodo duis veniam exercitation magna magna enim ut fugiat dolore ut ipsum nisi sit laboris amet consequat irure nisi dolore laboris reprehenderit esse nostrud tempor duis.",
+    "price": 979.39,
+    "category": "beleza",
+    "stock": 23,
+    "status": true,
+    "image": "img/products/beleza19.jpg"
+  },
+  {
+    "name": "Enim Labore Eiusmod",
+    "description": "Aliquip ut sed sed veniam ipsum aliquip commodo dolore ipsum lorem ea dolore enim velit enim veniam et sit eu adipiscing ut exercitation amet commodo veniam ut dolore minim nostrud aliqua lorem ipsum dolor reprehenderit ipsum cillum ut ut elit fugiat.",
+    "price": 75.14,
+    "category": "beleza",
+    "stock": 39,
+    "status": true,
+    "image": "img/products/beleza20.jpg"
+  },
+  {
+    "name": "Amet Aliqua Do",
+    "description": "Laboris consequat labore esse magna enim veniam reprehenderit eu lorem nostrud amet dolore dolor exercitation ut dolore in veniam amet incididunt dolor veniam reprehenderit commodo reprehenderit adipiscing tempor lorem in et amet ipsum quis sed duis amet consequat eiusmod adipiscing eu lorem magna aute aliquip voluptate.",
+    "price": 1749.74,
+    "category": "beleza",
+    "stock": 9,
+    "status": true,
+    "image": "img/products/beleza21.jpg"
+  },
+  {
+    "name": "Consectetur Minim Tempor",
+    "description": "Velit ea in reprehenderit et sed ut consequat ex reprehenderit aute tempor esse consequat in dolor quis exercitation ut aliqua ut ut fugiat minim sed do amet amet incididunt nostrud nisi do fugiat et ut ex reprehenderit ex eiusmod do ullamco esse ea fugiat ex tempor ex ad elit.",
+    "price": 1123.31,
+    "category": "eletronicos",
+    "stock": 11,
+    "status": true,
+    "image": "img/products/eletronicos1.jpg"
+  },
+  {
+    "name": "Lorem Labore Eiusmod",
+    "description": "Irure quis eiusmod irure ea ut consectetur reprehenderit elit ullamco consequat cillum do esse in ullamco consequat sit enim nisi aliqua dolor elit ut ad reprehenderit exercitation ad ad dolor ad reprehenderit reprehenderit et nostrud consequat laboris velit voluptate amet eu adipiscing esse quis cillum.",
+    "price": 997.07,
+    "category": "eletronicos",
+    "stock": 51,
+    "status": true,
+    "image": "img/products/eletronicos2.jpg"
+  },
+  {
+    "name": "Ipsum Minim Eiusmod",
+    "description": "Labore do lorem incididunt fugiat laboris nisi ea dolore commodo do voluptate ut ad dolor quis dolore lorem in dolor sed minim ad exercitation fugiat nisi ex nisi irure ut voluptate aliqua velit cillum et duis dolore veniam in aliquip in do.",
+    "price": 233.91,
+    "category": "eletronicos",
+    "stock": 5,
+    "status": true,
+    "image": "img/products/eletronicos3.jpg"
+  },
+  {
+    "name": "Dolor Minim Tempor",
+    "description": "Ad ipsum dolor irure ex dolor voluptate minim laboris minim incididunt commodo eu laboris aute sed adipiscing fugiat ex ut aute aliqua minim esse ut aliqua eu ipsum ullamco sed nisi ut in amet.",
+    "price": 376.51,
+    "category": "eletronicos",
+    "stock": 30,
+    "status": true,
+    "image": "img/products/eletronicos4.jpg"
+  },
+  {
+    "name": "Labore Incididunt Magna",
+    "description": "Sit dolore aute in quis enim aute fugiat lorem ullamco nisi commodo exercitation ad magna reprehenderit ullamco cillum et nostrud irure enim in duis nisi consectetur ea eiusmod reprehenderit ad minim dolore et quis adipiscing amet et ipsum in cillum enim irure laboris aliqua cillum elit esse amet.",
+    "price": 226.2,
+    "category": "eletronicos",
+    "stock": 83,
+    "status": true,
+    "image": "img/products/eletronicos5.jpg"
+  },
+  {
+    "name": "Labore Dolore Veniam",
+    "description": "Labore do ut dolore in esse labore laboris ex minim sit et labore aute adipiscing dolor aliquip aute duis ipsum in velit in elit in minim ex quis sed eu ut dolor ex reprehenderit dolore duis nostrud ea.",
+    "price": 180.97,
+    "category": "eletronicos",
+    "stock": 75,
+    "status": true,
+    "image": "img/products/eletronicos6.jpg"
+  },
+  {
+    "name": "Elit Enim Dolor",
+    "description": "Dolore sed sed dolor dolor velit nostrud enim dolore tempor dolor ut fugiat aute ut aliqua elit dolor minim voluptate ad labore laboris in exercitation in commodo laboris enim incididunt ex nisi ut reprehenderit.",
+    "price": 534.74,
+    "category": "eletronicos",
+    "stock": 76,
+    "status": true,
+    "image": "img/products/eletronicos7.jpg"
+  },
+  {
+    "name": "Ut Sed Elit",
+    "description": "Eiusmod dolor voluptate enim quis dolor do duis in tempor sed duis dolore enim veniam aute dolor nostrud quis consequat consequat in laboris minim consectetur fugiat velit lorem ut adipiscing enim minim velit tempor eiusmod sit minim aute sed ut amet cillum dolor duis elit.",
+    "price": 366.1,
+    "category": "eletronicos",
+    "stock": 35,
+    "status": true,
+    "image": "img/products/eletronicos8.jpg"
+  },
+  {
+    "name": "Sit Do Ipsum",
+    "description": "Quis reprehenderit dolore fugiat consequat magna duis ipsum nisi consequat aliquip aute aliqua magna magna cillum ullamco exercitation eiusmod eiusmod irure consectetur irure et dolor exercitation adipiscing laboris quis quis exercitation incididunt eu duis do labore sed irure ad aliqua veniam et.",
+    "price": 927.2,
+    "category": "eletronicos",
+    "stock": 17,
+    "status": true,
+    "image": "img/products/eletronicos9.jpg"
+  },
+  {
+    "name": "Tempor Veniam Adipiscing",
+    "description": "Ipsum incididunt lorem dolor ut incididunt ex duis voluptate incididunt ea ex ipsum velit adipiscing incididunt labore consequat aliqua ipsum incididunt fugiat consectetur exercitation dolor aliquip dolor dolore sed eiusmod nisi in aliquip dolor reprehenderit nostrud sed dolor tempor commodo dolor.",
+    "price": 145.14,
+    "category": "eletronicos",
+    "stock": 28,
+    "status": true,
+    "image": "img/products/eletronicos10.jpg"
+  },
+  {
+    "name": "Do Tempor Dolore",
+    "description": "Nisi velit ullamco dolore voluptate fugiat voluptate voluptate exercitation aute dolore laboris aliqua ullamco reprehenderit lorem et reprehenderit nostrud aliqua et eiusmod laboris dolore amet minim esse in sit fugiat reprehenderit et ea.",
+    "price": 631.76,
+    "category": "eletronicos",
+    "stock": 47,
+    "status": true,
+    "image": "img/products/eletronicos11.jpg"
+  },
+  {
+    "name": "Tempor Minim Sit",
+    "description": "Voluptate et amet incididunt ut duis consectetur aute exercitation aute in fugiat ut ea amet laboris sed consectetur eiusmod incididunt dolore enim amet sit fugiat adipiscing lorem exercitation cillum sit lorem sit dolor ex irure dolore exercitation dolor labore fugiat elit labore.",
+    "price": 628.07,
+    "category": "eletronicos",
+    "stock": 13,
+    "status": true,
+    "image": "img/products/eletronicos12.jpg"
+  },
+  {
+    "name": "Labore Minim Eiusmod",
+    "description": "Minim consequat ut consequat ad sed eu labore cillum consequat duis ut ut tempor consequat minim ex ut aute sit exercitation minim cillum tempor voluptate voluptate ut lorem commodo duis ullamco ut adipiscing aliqua incididunt ipsum aliquip amet velit duis ut cillum ad esse ad.",
+    "price": 1428.27,
+    "category": "eletronicos",
+    "stock": 81,
+    "status": true,
+    "image": "img/products/eletronicos13.jpg"
+  },
+  {
+    "name": "Eiusmod Do Magna",
+    "description": "Sed ipsum velit veniam nostrud labore reprehenderit eiusmod eu incididunt dolore in dolore esse laboris do minim cillum ut dolor consectetur aute minim do sit magna elit ut enim aliquip labore lorem in labore nostrud ut dolore aliqua quis reprehenderit tempor in sed ipsum eu eu ad ipsum aliquip exercitation.",
+    "price": 1949.01,
+    "category": "eletronicos",
+    "stock": 98,
+    "status": true,
+    "image": "img/products/eletronicos14.jpg"
+  },
+  {
+    "name": "Tempor Sit Minim",
+    "description": "Enim in nostrud aute ad ex in amet in consectetur fugiat ad dolore reprehenderit velit esse eiusmod exercitation ex veniam sit dolore eiusmod nostrud esse sed eiusmod dolore magna fugiat quis veniam reprehenderit sit nisi ipsum minim et esse adipiscing eu ullamco consequat labore nisi.",
+    "price": 415.46,
+    "category": "eletronicos",
+    "stock": 20,
+    "status": true,
+    "image": "img/products/eletronicos15.jpg"
+  },
+  {
+    "name": "Lorem Adipiscing Dolore",
+    "description": "Lorem dolore tempor ea duis aliqua veniam magna minim fugiat elit minim dolore amet sed reprehenderit duis ut ipsum aliquip esse velit ex ut nostrud dolor dolor labore do eiusmod amet lorem do ut.",
+    "price": 1262.28,
+    "category": "eletronicos",
+    "stock": 67,
+    "status": true,
+    "image": "img/products/eletronicos16.jpg"
+  },
+  {
+    "name": "Elit Sit Consectetur",
+    "description": "Ullamco consectetur aute ex ullamco consequat aliquip aute duis tempor consectetur eu aliquip esse dolor ea in ex commodo ullamco ad consequat ipsum nisi do ut lorem exercitation in in aliqua ut ex enim.",
+    "price": 1445.78,
+    "category": "eletronicos",
+    "stock": 44,
+    "status": true,
+    "image": "img/products/eletronicos17.jpg"
+  },
+  {
+    "name": "Ipsum Labore Dolor",
+    "description": "Consectetur aute nisi elit ut consectetur eu dolore exercitation exercitation quis fugiat lorem consectetur sit lorem veniam consectetur ut veniam amet dolore eu minim eu aliqua irure ut consequat incididunt quis ipsum velit ad magna et ex commodo minim aute consectetur.",
+    "price": 810.58,
+    "category": "eletronicos",
+    "stock": 44,
+    "status": true,
+    "image": "img/products/eletronicos18.jpg"
+  },
+  {
+    "name": "Ipsum Consectetur Dolore",
+    "description": "Enim reprehenderit sit eiusmod veniam amet lorem in fugiat aliquip sed laboris esse ex exercitation reprehenderit velit quis eu esse amet adipiscing quis incididunt ut ut ut aute sit ut incididunt sit eu exercitation ut do duis voluptate labore magna nostrud enim ipsum sit.",
+    "price": 126.09,
+    "category": "eletronicos",
+    "stock": 45,
+    "status": true,
+    "image": "img/products/eletronicos19.jpg"
+  },
+  {
+    "name": "Elit Enim Tempor",
+    "description": "Ut do consequat tempor aliquip voluptate adipiscing voluptate labore ullamco dolore ut do commodo exercitation enim velit dolor magna quis sed fugiat dolor do ullamco magna ea incididunt dolor incididunt do elit voluptate adipiscing et incididunt ex ut voluptate in ut irure aute fugiat dolor.",
+    "price": 776.15,
+    "category": "eletronicos",
+    "stock": 27,
+    "status": true,
+    "image": "img/products/eletronicos20.jpg"
+  },
+  {
+    "name": "Ipsum Adipiscing Amet",
+    "description": "Velit minim ullamco elit ad enim adipiscing consequat amet lorem velit et minim minim incididunt sed velit velit nisi veniam magna ipsum dolore enim enim dolore aliquip commodo nisi dolor ipsum ad commodo ipsum sit lorem lorem ad reprehenderit commodo lorem sit minim enim labore elit fugiat.",
+    "price": 1351.89,
+    "category": "eletronicos",
+    "stock": 42,
+    "status": true,
+    "image": "img/products/eletronicos21.jpg"
+  },
+  {
+    "name": "Minim Aliqua Veniam",
+    "description": "Labore commodo nisi consectetur irure sed irure ipsum reprehenderit dolor ut sed fugiat eiusmod nisi sit quis ex dolor ut reprehenderit ut ex nisi laboris ut dolor ut fugiat consectetur irure ut in amet ipsum minim commodo reprehenderit ad esse consequat ut incididunt sit reprehenderit reprehenderit.",
+    "price": 1562.97,
+    "category": "livros",
+    "stock": 93,
+    "status": true,
+    "image": "img/products/livros1.jpg"
+  },
+  {
+    "name": "Elit Dolor Magna",
+    "description": "Magna quis in irure et amet voluptate consequat velit ad ea ut velit ipsum nostrud tempor dolore fugiat sed ex ex elit dolor ut ut magna sed in sit nisi enim velit aliqua quis laboris adipiscing exercitation duis quis irure ex sit eiusmod ad reprehenderit in consequat dolor minim.",
+    "price": 623.33,
+    "category": "livros",
+    "stock": 63,
+    "status": true,
+    "image": "img/products/livros2.jpg"
+  },
+  {
+    "name": "Adipiscing Amet Sed",
+    "description": "Et fugiat fugiat reprehenderit nisi veniam consequat aliqua irure elit cillum esse aute dolor reprehenderit ex enim amet reprehenderit aliquip voluptate commodo reprehenderit aute nostrud sed minim commodo ipsum ut.",
+    "price": 376.92,
+    "category": "livros",
+    "stock": 77,
+    "status": true,
+    "image": "img/products/livros3.jpg"
+  },
+  {
+    "name": "Aliqua Consectetur Dolor",
+    "description": "Commodo ea consectetur irure fugiat adipiscing dolor dolore aliquip elit dolore amet consectetur labore consectetur aute ad eu in voluptate velit magna amet in magna reprehenderit lorem dolore quis in quis in eu quis velit commodo tempor.",
+    "price": 114.49,
+    "category": "livros",
+    "stock": 93,
+    "status": true,
+    "image": "img/products/livros4.jpg"
+  },
+  {
+    "name": "Lorem Adipiscing Ipsum",
+    "description": "Ullamco exercitation laboris ea eiusmod duis do dolor duis dolor ut eu veniam minim do commodo ea esse sed esse velit ad aute ea elit duis esse ea esse tempor dolore velit eu ut amet adipiscing aute dolor enim eiusmod ut labore quis nostrud veniam veniam magna dolor.",
+    "price": 1889.05,
+    "category": "livros",
+    "stock": 33,
+    "status": true,
+    "image": "img/products/livros5.jpg"
+  },
+  {
+    "name": "Sed Incididunt Adipiscing",
+    "description": "Reprehenderit ut do esse dolore reprehenderit reprehenderit tempor in laboris commodo ut minim minim et eu dolore ut aute aliqua ullamco nostrud sed voluptate ut consectetur ut sed et fugiat eu in sed minim.",
+    "price": 559.89,
+    "category": "livros",
+    "stock": 65,
+    "status": true,
+    "image": "img/products/livros6.jpg"
+  },
+  {
+    "name": "Do Dolor Ut",
+    "description": "Consectetur elit nostrud exercitation veniam elit esse veniam adipiscing nostrud sed incididunt nostrud cillum ipsum voluptate nisi et minim consectetur labore velit amet tempor consequat enim commodo nostrud commodo voluptate duis incididunt fugiat magna esse consequat irure lorem ipsum fugiat.",
+    "price": 1117.93,
+    "category": "livros",
+    "stock": 51,
+    "status": true,
+    "image": "img/products/livros7.jpg"
+  },
+  {
+    "name": "Ut Magna Sit",
+    "description": "In esse aute exercitation do tempor amet nisi quis nostrud veniam ipsum enim consequat enim minim nisi voluptate consectetur ut consectetur labore ea esse duis aute irure esse aliquip ex nostrud lorem dolor elit ad tempor ad ut enim ea elit duis consectetur minim.",
+    "price": 1841.04,
+    "category": "livros",
+    "stock": 67,
+    "status": true,
+    "image": "img/products/livros8.jpg"
+  },
+  {
+    "name": "Dolore Enim Elit",
+    "description": "Laboris ut aliquip ullamco voluptate veniam reprehenderit enim elit quis veniam sed eu fugiat labore ullamco aliqua et fugiat dolor sed in eu ut dolor eiusmod in cillum aliqua in adipiscing ullamco in lorem labore.",
+    "price": 1813.2,
+    "category": "livros",
+    "stock": 82,
+    "status": true,
+    "image": "img/products/livros9.jpg"
+  },
+  {
+    "name": "Aliqua Dolor Lorem",
+    "description": "Do voluptate lorem irure et minim ipsum cillum duis duis nostrud dolore irure ex dolore eu do commodo commodo ipsum ullamco ea sit exercitation et veniam eiusmod quis dolore ad sed commodo elit ipsum exercitation consequat ut aute ullamco eu duis aliquip.",
+    "price": 523.2,
+    "category": "livros",
+    "stock": 19,
+    "status": true,
+    "image": "img/products/livros10.jpg"
+  },
+  {
+    "name": "Consectetur Adipiscing Minim",
+    "description": "Ut ut nisi adipiscing in quis veniam ex aute cillum adipiscing adipiscing velit eiusmod ipsum tempor esse dolor do voluptate in elit commodo ut aliqua fugiat aliqua fugiat sit exercitation aliquip in.",
+    "price": 1195.8,
+    "category": "livros",
+    "stock": 33,
+    "status": true,
+    "image": "img/products/livros11.jpg"
+  },
+  {
+    "name": "Consectetur Enim Eiusmod",
+    "description": "Tempor esse ut exercitation eiusmod sit adipiscing cillum sed nostrud eiusmod ad ea nostrud ut sed lorem ut laboris esse ipsum dolor dolor velit in lorem enim in in in ut magna ex amet velit consectetur veniam velit veniam velit ut minim amet sed eiusmod aliqua quis consectetur dolor irure.",
+    "price": 1736.14,
+    "category": "livros",
+    "stock": 81,
+    "status": true,
+    "image": "img/products/livros12.jpg"
+  },
+  {
+    "name": "Consectetur Ipsum Lorem",
+    "description": "Elit labore aute ipsum incididunt aliqua lorem cillum laboris lorem in exercitation incididunt veniam commodo aute ex ipsum eiusmod eiusmod incididunt nostrud lorem eiusmod quis ut sed tempor exercitation do incididunt velit minim fugiat ipsum ut ex ad consectetur laboris irure velit reprehenderit sit et ut dolor quis.",
+    "price": 1496.67,
+    "category": "livros",
+    "stock": 65,
+    "status": true,
+    "image": "img/products/livros13.jpg"
+  },
+  {
+    "name": "Adipiscing Enim Ut",
+    "description": "Exercitation laboris adipiscing ad in exercitation ipsum nisi et tempor aliqua aute adipiscing cillum ullamco minim aliqua magna laboris nisi consequat ut eu cillum exercitation dolor magna aliqua fugiat duis reprehenderit in veniam magna cillum velit sed dolor dolor eiusmod nostrud exercitation consectetur amet esse.",
+    "price": 513.69,
+    "category": "livros",
+    "stock": 91,
+    "status": true,
+    "image": "img/products/livros14.jpg"
+  },
+  {
+    "name": "Labore Lorem Ipsum",
+    "description": "Veniam amet sed ea consectetur ex amet et dolor veniam nostrud sed cillum tempor sed nostrud ex amet dolor exercitation exercitation ea amet et consequat cillum nostrud fugiat fugiat incididunt amet ullamco minim quis sit quis.",
+    "price": 433.85,
+    "category": "livros",
+    "stock": 81,
+    "status": true,
+    "image": "img/products/livros15.jpg"
+  },
+  {
+    "name": "Adipiscing Aliqua Sit",
+    "description": "In amet commodo tempor nisi magna ipsum labore amet fugiat ut ut minim et nostrud magna minim dolore enim labore elit in ut dolor adipiscing irure ea do aute dolore ex voluptate enim.",
+    "price": 714.38,
+    "category": "livros",
+    "stock": 76,
+    "status": true,
+    "image": "img/products/livros16.jpg"
+  },
+  {
+    "name": "Sit Dolore Elit",
+    "description": "Ut nisi aliquip ut exercitation dolor consectetur aliquip aute dolore irure esse aute ut labore aliquip minim eu ut ut ad veniam et nostrud et laboris incididunt consectetur do ut et dolore dolore exercitation in veniam laboris nisi incididunt.",
+    "price": 1092.84,
+    "category": "livros",
+    "stock": 10,
+    "status": true,
+    "image": "img/products/livros17.jpg"
+  },
+  {
+    "name": "Incididunt Elit Dolor",
+    "description": "Labore veniam ea aliqua fugiat in aute tempor dolor incididunt minim incididunt dolor reprehenderit ullamco aliqua consequat ut velit veniam magna ut elit elit fugiat cillum consequat ea enim eiusmod aliqua et aliqua dolor nostrud.",
+    "price": 1170.3,
+    "category": "livros",
+    "stock": 74,
+    "status": true,
+    "image": "img/products/livros18.jpg"
+  },
+  {
+    "name": "Dolore Lorem Eiusmod",
+    "description": "Ea et magna cillum tempor et aliqua eu in nisi amet fugiat commodo consequat esse ut voluptate ad tempor dolore in ut quis ut labore cillum tempor cillum in quis amet esse fugiat enim et ut minim labore magna consequat.",
+    "price": 355.07,
+    "category": "livros",
+    "stock": 95,
+    "status": true,
+    "image": "img/products/livros19.jpg"
+  },
+  {
+    "name": "Consectetur Aliqua Dolor",
+    "description": "Reprehenderit consequat do aliquip adipiscing incididunt incididunt nostrud minim commodo cillum nostrud minim adipiscing reprehenderit irure ad tempor duis fugiat laboris eu exercitation nostrud ipsum do labore ut reprehenderit dolore adipiscing exercitation aliqua veniam ut ut lorem quis amet reprehenderit elit magna laboris irure ea enim.",
+    "price": 881.48,
+    "category": "livros",
+    "stock": 38,
+    "status": true,
+    "image": "img/products/livros20.jpg"
+  },
+  {
+    "name": "Labore Eiusmod Elit",
+    "description": "Dolor veniam commodo elit minim cillum dolor aliqua dolore exercitation reprehenderit quis eiusmod laboris amet aute ipsum consequat et voluptate lorem voluptate quis minim exercitation enim dolore voluptate ipsum cillum reprehenderit et eu enim esse eu enim.",
+    "price": 1924.26,
+    "category": "livros",
+    "stock": 42,
+    "status": true,
+    "image": "img/products/livros21.jpg"
+  },
+  {
+    "name": "Dolore Enim Veniam",
+    "description": "Tempor ad aliquip dolor velit in sed dolor aute aliquip dolore enim sed quis adipiscing adipiscing ut in ut ut quis velit quis et sit dolore nisi tempor elit dolor dolor incididunt eiusmod consequat irure aliquip ut dolore magna eiusmod amet fugiat in in.",
+    "price": 164.0,
+    "category": "esportes",
+    "stock": 82,
+    "status": true,
+    "image": "img/products/esportes1.jpg"
+  },
+  {
+    "name": "Sit Elit Adipiscing",
+    "description": "Ullamco reprehenderit adipiscing amet fugiat commodo irure irure elit velit ut irure enim labore consectetur laboris esse tempor reprehenderit minim ullamco ullamco laboris lorem sit nostrud nisi commodo aute eiusmod nisi ut adipiscing fugiat.",
+    "price": 430.0,
+    "category": "esportes",
+    "stock": 76,
+    "status": true,
+    "image": "img/products/esportes2.jpg"
+  },
+  {
+    "name": "Adipiscing Ut Ipsum",
+    "description": "Duis exercitation ex voluptate nisi consectetur aliqua reprehenderit et aute aliquip consectetur do quis sit sed minim enim fugiat amet aute exercitation cillum aute dolore ad magna eu amet velit labore magna dolor do ullamco eiusmod ea ut dolor dolor do.",
+    "price": 1823.8,
+    "category": "esportes",
+    "stock": 6,
+    "status": true,
+    "image": "img/products/esportes3.jpg"
+  },
+  {
+    "name": "Incididunt Dolor Consectetur",
+    "description": "Ipsum duis tempor tempor et ut duis sit sed do laboris ut do reprehenderit aliqua aliqua ullamco eu sed veniam dolore aliquip cillum adipiscing et tempor quis magna duis magna eu amet aliqua dolor minim dolore dolor ullamco aliqua enim consequat in aute ad enim duis irure.",
+    "price": 412.69,
+    "category": "esportes",
+    "stock": 50,
+    "status": true,
+    "image": "img/products/esportes4.jpg"
+  },
+  {
+    "name": "Aliqua Elit Sed",
+    "description": "Do eiusmod ut sed dolore ut ipsum dolor laboris sed sit reprehenderit eu cillum et aliquip dolore amet ipsum dolore dolore ut do voluptate eiusmod exercitation dolore voluptate ut labore et adipiscing amet cillum sit nostrud eiusmod nisi nisi nisi ullamco fugiat dolore aliqua eu.",
+    "price": 1281.32,
+    "category": "esportes",
+    "stock": 5,
+    "status": true,
+    "image": "img/products/esportes5.jpg"
+  },
+  {
+    "name": "Amet Dolore Tempor",
+    "description": "Adipiscing nostrud lorem veniam aliquip laboris dolore duis ipsum dolore ut tempor veniam ut commodo consequat nisi consequat enim aliquip commodo consectetur laboris nisi adipiscing labore do ex sed ullamco nisi labore consequat cillum nisi ut cillum.",
+    "price": 1567.52,
+    "category": "esportes",
+    "stock": 92,
+    "status": true,
+    "image": "img/products/esportes6.jpg"
+  },
+  {
+    "name": "Lorem Do Sit",
+    "description": "Elit consequat cillum aliquip in ut reprehenderit ea aliquip ut ex aliquip dolor reprehenderit labore veniam ut minim in labore in lorem elit velit nostrud nisi dolore consequat in ex enim aliqua fugiat in irure.",
+    "price": 1420.25,
+    "category": "esportes",
+    "stock": 82,
+    "status": true,
+    "image": "img/products/esportes7.jpg"
+  },
+  {
+    "name": "Lorem Do Aliqua",
+    "description": "Eiusmod voluptate aliqua veniam enim dolore exercitation amet elit labore lorem veniam ipsum laboris aute aliquip dolor tempor reprehenderit fugiat cillum adipiscing duis nostrud nisi ut duis amet ex ullamco sit incididunt sit esse ex ex nisi magna sed enim dolor fugiat esse exercitation ipsum ut ullamco eiusmod ut.",
+    "price": 1678.97,
+    "category": "esportes",
+    "stock": 60,
+    "status": true,
+    "image": "img/products/esportes8.jpg"
+  },
+  {
+    "name": "Veniam Sit Sed",
+    "description": "Nostrud commodo laboris lorem aliquip eu eiusmod irure dolor consequat adipiscing ex duis velit magna dolor quis ut exercitation commodo veniam elit nisi do commodo dolor consectetur ullamco velit aute.",
+    "price": 817.26,
+    "category": "esportes",
+    "stock": 93,
+    "status": true,
+    "image": "img/products/esportes9.jpg"
+  },
+  {
+    "name": "Lorem Dolor Consectetur",
+    "description": "Dolore nostrud dolore enim ipsum dolor minim cillum tempor nisi aute reprehenderit labore dolore dolore commodo cillum in fugiat lorem in incididunt labore irure quis consequat aliqua ea tempor ut fugiat reprehenderit ut minim dolor amet ullamco ipsum aliquip amet aute.",
+    "price": 510.53,
+    "category": "esportes",
+    "stock": 58,
+    "status": true,
+    "image": "img/products/esportes10.jpg"
+  },
+  {
+    "name": "Consectetur Tempor Do",
+    "description": "Tempor amet consequat fugiat dolore commodo cillum in reprehenderit minim laboris ea nostrud sit labore in exercitation dolore in amet tempor do in sit dolor aliqua eiusmod reprehenderit in ullamco amet commodo.",
+    "price": 946.37,
+    "category": "esportes",
+    "stock": 77,
+    "status": true,
+    "image": "img/products/esportes11.jpg"
+  },
+  {
+    "name": "Lorem Labore Incididunt",
+    "description": "Voluptate irure eu velit ad ex sed incididunt in velit ut dolore amet et ex velit esse aliquip velit esse aliqua amet duis laboris in dolore eu veniam irure voluptate incididunt et minim enim adipiscing irure velit quis fugiat voluptate.",
+    "price": 79.08,
+    "category": "esportes",
+    "stock": 63,
+    "status": true,
+    "image": "img/products/esportes12.jpg"
+  },
+  {
+    "name": "Labore Enim Tempor",
+    "description": "Dolor consectetur do amet in dolore voluptate ut aute dolore lorem commodo do lorem voluptate eu exercitation reprehenderit ad nostrud dolore ullamco elit do aliquip in do sit ex sed labore sit veniam fugiat consequat ea nisi amet voluptate ut do incididunt velit nostrud magna ea.",
+    "price": 188.89,
+    "category": "esportes",
+    "stock": 79,
+    "status": true,
+    "image": "img/products/esportes13.jpg"
+  },
+  {
+    "name": "Adipiscing Enim Amet",
+    "description": "Consectetur magna dolor ipsum cillum in ex exercitation aute ex elit dolore duis ex esse fugiat consectetur quis eu in eiusmod dolore dolor ut dolore ut aute laboris ut voluptate nisi quis sed nostrud cillum.",
+    "price": 1051.5,
+    "category": "esportes",
+    "stock": 29,
+    "status": true,
+    "image": "img/products/esportes14.jpg"
+  },
+  {
+    "name": "Dolor Tempor Amet",
+    "description": "Cillum dolor magna et labore lorem et ut minim dolore magna veniam sit et quis dolore irure enim dolore et fugiat cillum fugiat commodo consequat duis adipiscing lorem in amet eiusmod dolor aliqua minim quis duis aliqua do amet commodo et elit elit adipiscing do ut commodo.",
+    "price": 1677.31,
+    "category": "esportes",
+    "stock": 55,
+    "status": true,
+    "image": "img/products/esportes15.jpg"
+  },
+  {
+    "name": "Labore Incididunt Veniam",
+    "description": "Ex dolore consectetur ipsum commodo cillum et laboris aliqua in velit velit commodo dolore nisi sit incididunt dolor adipiscing dolor exercitation incididunt nostrud ullamco dolore exercitation dolor consectetur aliquip esse dolor ex irure voluptate tempor.",
+    "price": 630.97,
+    "category": "esportes",
+    "stock": 84,
+    "status": true,
+    "image": "img/products/esportes16.jpg"
+  },
+  {
+    "name": "Incididunt Dolor Enim",
+    "description": "Ex do aliquip lorem adipiscing in nisi amet reprehenderit sed adipiscing amet cillum irure dolore in minim dolore aliqua eu do et velit duis nisi dolor eiusmod in in commodo in dolor.",
+    "price": 1519.17,
+    "category": "esportes",
+    "stock": 73,
+    "status": true,
+    "image": "img/products/esportes17.jpg"
+  },
+  {
+    "name": "Minim Dolor Dolore",
+    "description": "Ut aliquip dolor ipsum consectetur elit ea ex laboris velit eiusmod veniam irure ipsum cillum incididunt magna lorem lorem ut dolore magna in reprehenderit quis in sit reprehenderit nisi nostrud.",
+    "price": 1304.11,
+    "category": "esportes",
+    "stock": 74,
+    "status": true,
+    "image": "img/products/esportes18.jpg"
+  },
+  {
+    "name": "Elit Amet Dolor",
+    "description": "Et voluptate incididunt elit aute enim voluptate veniam reprehenderit velit magna irure magna ipsum sed dolore labore ullamco elit incididunt in ipsum duis consectetur amet ullamco elit reprehenderit eiusmod dolore voluptate fugiat nisi.",
+    "price": 1748.38,
+    "category": "esportes",
+    "stock": 92,
+    "status": true,
+    "image": "img/products/esportes19.jpg"
+  },
+  {
+    "name": "Aliqua Minim Sed",
+    "description": "Incididunt fugiat consequat nostrud dolore in amet labore exercitation consectetur enim dolore in consectetur ullamco fugiat incididunt ut aliqua ea in esse labore amet nostrud exercitation exercitation esse eu eu amet fugiat eu lorem dolore nisi exercitation tempor aute dolore ut.",
+    "price": 509.29,
+    "category": "esportes",
+    "stock": 61,
+    "status": true,
+    "image": "img/products/esportes20.jpg"
+  },
+  {
+    "name": "Sit Elit Amet",
+    "description": "Ut elit reprehenderit lorem duis cillum velit enim lorem ad minim nisi et reprehenderit veniam incididunt eu lorem eu amet veniam fugiat aute dolore exercitation dolore aliqua laboris ea ullamco dolor aliqua fugiat nisi nisi aliquip consectetur fugiat velit.",
+    "price": 338.62,
+    "category": "esportes",
+    "stock": 98,
+    "status": true,
+    "image": "img/products/esportes21.jpg"
+  },
+  {
+    "name": "Tempor Lorem Do",
+    "description": "Ut ex ad veniam ea sed magna ad consequat in duis elit do eiusmod dolore ipsum ut ad dolor elit consectetur dolor aute dolore voluptate reprehenderit lorem eiusmod ullamco duis elit nostrud elit aute voluptate dolor velit ea eiusmod voluptate sit eu dolore commodo.",
+    "price": 145.57,
+    "category": "escola",
+    "stock": 37,
+    "status": true,
+    "image": "img/products/escola1.jpg"
+  },
+  {
+    "name": "Incididunt Sed Enim",
+    "description": "Ea ea tempor esse labore magna reprehenderit ad labore eiusmod in nostrud magna in ut enim aliquip eiusmod amet in veniam enim adipiscing minim in nostrud irure voluptate esse veniam cillum incididunt irure exercitation adipiscing ex amet dolor lorem voluptate cillum in.",
+    "price": 911.48,
+    "category": "escola",
+    "stock": 39,
+    "status": true,
+    "image": "img/products/escola2.jpg"
+  },
+  {
+    "name": "Aliqua Lorem Sed",
+    "description": "Duis sed ut voluptate ullamco aliquip ad magna magna tempor sed sed nostrud commodo esse veniam amet ut adipiscing voluptate quis ut consequat ea dolor lorem laboris do dolore minim aute sed et do dolore elit.",
+    "price": 479.4,
+    "category": "escola",
+    "stock": 100,
+    "status": true,
+    "image": "img/products/escola3.jpg"
+  },
+  {
+    "name": "Ut Adipiscing Dolore",
+    "description": "Quis ut adipiscing consequat cillum tempor in do in quis aute dolore laboris consequat lorem aute reprehenderit do sed aute voluptate commodo ea ullamco dolor ullamco exercitation ut ea minim ut reprehenderit ullamco do ad lorem lorem ullamco minim do consequat duis.",
+    "price": 239.09,
+    "category": "escola",
+    "stock": 95,
+    "status": true,
+    "image": "img/products/escola4.jpg"
+  },
+  {
+    "name": "Magna Minim Amet",
+    "description": "Laboris eu irure adipiscing enim in ea ea in ut eiusmod labore incididunt ea ut consequat ut incididunt aliqua cillum eu consectetur tempor quis minim eu esse veniam do esse do in laboris labore elit nostrud aliqua exercitation in consequat incididunt exercitation amet labore consequat magna do.",
+    "price": 391.76,
+    "category": "escola",
+    "stock": 93,
+    "status": true,
+    "image": "img/products/escola5.jpg"
+  },
+  {
+    "name": "Magna Ipsum Lorem",
+    "description": "Nisi aute adipiscing minim nisi ea tempor incididunt elit incididunt voluptate exercitation lorem magna quis dolor quis elit aute consequat eiusmod ullamco cillum sed tempor in esse ut enim labore eiusmod sit.",
+    "price": 296.55,
+    "category": "escola",
+    "stock": 15,
+    "status": true,
+    "image": "img/products/escola6.jpg"
+  },
+  {
+    "name": "Amet Ut Incididunt",
+    "description": "Irure dolore enim et eiusmod nisi ullamco magna do ullamco nostrud veniam exercitation consequat velit incididunt adipiscing veniam voluptate aliquip tempor nisi elit aute in voluptate tempor labore amet consectetur exercitation voluptate.",
+    "price": 1305.65,
+    "category": "escola",
+    "stock": 12,
+    "status": true,
+    "image": "img/products/escola7.jpg"
+  },
+  {
+    "name": "Magna Enim Ut",
+    "description": "Reprehenderit laboris ea ipsum nisi aute sed irure dolore fugiat aliquip cillum eu dolore dolore eiusmod consectetur consequat magna magna incididunt magna dolor dolore consequat dolore amet labore velit cillum duis consequat minim magna adipiscing ut amet tempor dolor adipiscing ut eiusmod eu.",
+    "price": 533.24,
+    "category": "escola",
+    "stock": 8,
+    "status": true,
+    "image": "img/products/escola8.jpg"
+  },
+  {
+    "name": "Elit Dolor Do",
+    "description": "Elit irure ex ea do do duis fugiat elit amet sit veniam ut sed magna tempor dolor dolore sed ut ut consequat incididunt sit voluptate exercitation sed in lorem elit ut eu labore ad eiusmod in dolore et fugiat dolor ad do eiusmod ex ipsum veniam et consectetur enim.",
+    "price": 1237.61,
+    "category": "escola",
+    "stock": 46,
+    "status": true,
+    "image": "img/products/escola9.jpg"
+  },
+  {
+    "name": "Aliqua Magna Dolor",
+    "description": "Ut amet do ipsum eu eu adipiscing ad amet incididunt exercitation cillum sit ut ullamco voluptate velit ex et ut quis ullamco tempor reprehenderit minim fugiat commodo laboris voluptate ut laboris esse consectetur nisi minim aliqua in et fugiat.",
+    "price": 1662.61,
+    "category": "escola",
+    "stock": 90,
+    "status": true,
+    "image": "img/products/escola10.jpg"
+  },
+  {
+    "name": "Ut Eiusmod Veniam",
+    "description": "Aliquip irure consectetur consequat tempor ullamco velit lorem elit elit aute cillum enim cillum commodo ea sed aute sed tempor aliquip irure laboris voluptate enim sed ad velit in ullamco elit laboris et esse velit ullamco aute ut incididunt sed veniam dolor ut elit labore fugiat ullamco.",
+    "price": 1518.97,
+    "category": "escola",
+    "stock": 40,
+    "status": true,
+    "image": "img/products/escola11.jpg"
+  },
+  {
+    "name": "Tempor Sed Minim",
+    "description": "Cillum laboris nostrud ut ut consequat quis minim laboris ex quis commodo ad eiusmod consectetur cillum aute lorem duis nisi voluptate ipsum enim dolor commodo ex nisi commodo velit dolor do in.",
+    "price": 610.68,
+    "category": "escola",
+    "stock": 20,
+    "status": true,
+    "image": "img/products/escola12.jpg"
+  },
+  {
+    "name": "Ut Lorem Enim",
+    "description": "Voluptate voluptate ea ad voluptate lorem laboris dolor ut in velit commodo sed sed do elit in magna ipsum lorem elit do consequat amet ut elit amet ut consequat magna exercitation ipsum eu cillum do adipiscing dolor sit exercitation in.",
+    "price": 1180.47,
+    "category": "escola",
+    "stock": 72,
+    "status": true,
+    "image": "img/products/escola13.jpg"
+  },
+  {
+    "name": "Consectetur Amet Enim",
+    "description": "Magna nisi incididunt eiusmod ut adipiscing exercitation lorem aliqua commodo velit commodo voluptate dolore ex eu dolor aliquip in irure aute tempor lorem adipiscing commodo irure cillum ipsum ut exercitation esse minim ex lorem amet dolor cillum magna fugiat ad nostrud ea aute in amet sed consectetur minim ea.",
+    "price": 1085.17,
+    "category": "escola",
+    "stock": 41,
+    "status": true,
+    "image": "img/products/escola14.jpg"
+  },
+  {
+    "name": "Amet Sed Dolore",
+    "description": "Irure in sed aliquip esse veniam quis dolor ex consequat do ut enim laboris veniam cillum cillum quis esse duis ut dolor in in ut nostrud reprehenderit aliquip esse velit fugiat ullamco labore sit amet.",
+    "price": 1479.32,
+    "category": "escola",
+    "stock": 15,
+    "status": true,
+    "image": "img/products/escola15.jpg"
+  },
+  {
+    "name": "Elit Consectetur Dolore",
+    "description": "Nostrud ut incididunt magna in fugiat fugiat aliqua aute eu veniam ut lorem sed in incididunt fugiat cillum reprehenderit aute consequat aliqua dolor nisi dolor dolore fugiat aliqua ut laboris veniam dolor enim lorem esse adipiscing labore eiusmod dolore in dolor quis eu ullamco velit minim do quis ipsum.",
+    "price": 999.82,
+    "category": "escola",
+    "stock": 38,
+    "status": true,
+    "image": "img/products/escola16.jpg"
+  },
+  {
+    "name": "Ut Enim Sed",
+    "description": "Adipiscing aliquip dolore eu elit aliqua ex enim ut nisi irure in ea aute minim aliqua velit nisi reprehenderit aliquip dolore duis adipiscing ut reprehenderit quis fugiat dolor commodo ullamco in consectetur duis lorem reprehenderit exercitation ut aliqua eu tempor nisi dolor cillum eiusmod incididunt in ut laboris velit.",
+    "price": 1434.72,
+    "category": "escola",
+    "stock": 85,
+    "status": true,
+    "image": "img/products/escola17.jpg"
+  },
+  {
+    "name": "Sit Ipsum Veniam",
+    "description": "Enim ut veniam lorem ad nisi sed et reprehenderit consectetur consectetur et ea ea commodo et esse adipiscing do dolore ut in commodo ad dolor in adipiscing dolor sed dolore ut ad eu quis ex dolore ex aliqua ut aliqua exercitation consequat ipsum consectetur ut minim nostrud dolore ad laboris.",
+    "price": 574.36,
+    "category": "escola",
+    "stock": 6,
+    "status": true,
+    "image": "img/products/escola18.jpg"
+  },
+  {
+    "name": "Ut Ipsum Enim",
+    "description": "Amet adipiscing amet incididunt ipsum duis nisi magna ut adipiscing ad voluptate dolore ad voluptate exercitation eu eu velit eiusmod quis consequat ex elit dolore eu nisi tempor labore exercitation cillum quis esse et.",
+    "price": 773.29,
+    "category": "escola",
+    "stock": 60,
+    "status": true,
+    "image": "img/products/escola19.jpg"
+  },
+  {
+    "name": "Labore Veniam Incididunt",
+    "description": "Dolor exercitation dolore ut ut ut dolore nostrud in ullamco adipiscing ex eiusmod ex eiusmod incididunt tempor veniam aute ut ut reprehenderit sit in ut ut incididunt ut reprehenderit magna aliqua dolor dolor laboris velit exercitation dolor lorem et magna elit dolore quis consectetur voluptate sit lorem commodo duis.",
+    "price": 1120.6,
+    "category": "escola",
+    "stock": 36,
+    "status": true,
+    "image": "img/products/escola20.jpg"
+  },
+  {
+    "name": "Sed Consectetur Labore",
+    "description": "Quis cillum eu duis labore consequat commodo reprehenderit ea adipiscing lorem ut quis veniam magna ad adipiscing tempor duis incididunt esse ipsum reprehenderit cillum nisi dolore tempor nisi aute consectetur ipsum dolore dolor sit ut in ullamco laboris reprehenderit ut irure ut aute ea do aliquip in.",
+    "price": 1545.7,
+    "category": "escola",
+    "stock": 42,
+    "status": true,
+    "image": "img/products/escola21.jpg"
+  },
+  {
+    "name": "Sed Tempor Consectetur",
+    "description": "Ea eiusmod laboris duis tempor lorem aute nisi quis aliquip ullamco minim reprehenderit velit incididunt irure ut lorem ullamco voluptate dolor aliquip reprehenderit laboris dolor labore et sed incididunt eu aliqua sed sit ea dolor nisi duis ad laboris ex exercitation.",
+    "price": 1639.09,
+    "category": "ferias",
+    "stock": 22,
+    "status": true,
+    "image": "img/products/ferias1.jpg"
+  },
+  {
+    "name": "Tempor Minim Enim",
+    "description": "Aliqua velit do incididunt ullamco minim sed quis consectetur ipsum ipsum dolor et esse dolore ullamco dolore voluptate aliqua reprehenderit ut ex ad dolore magna adipiscing ut in ipsum eu.",
+    "price": 659.08,
+    "category": "ferias",
+    "stock": 16,
+    "status": true,
+    "image": "img/products/ferias2.jpg"
+  },
+  {
+    "name": "Aliqua Ut Eiusmod",
+    "description": "Minim voluptate duis minim commodo veniam exercitation do in sed consectetur aliquip aliqua exercitation ut commodo et quis incididunt irure laboris velit ullamco dolor fugiat duis aute dolor aliqua sed aliquip irure enim enim exercitation aliqua et in exercitation tempor sit exercitation irure dolore exercitation incididunt sed.",
+    "price": 615.08,
+    "category": "ferias",
+    "stock": 26,
+    "status": true,
+    "image": "img/products/ferias3.jpg"
+  },
+  {
+    "name": "Veniam Minim Ut",
+    "description": "Veniam velit reprehenderit voluptate in elit magna aute consectetur incididunt labore voluptate in duis aute ullamco veniam do eu velit dolore et ex amet ipsum incididunt adipiscing velit dolore labore.",
+    "price": 1263.88,
+    "category": "ferias",
+    "stock": 79,
+    "status": true,
+    "image": "img/products/ferias4.jpg"
+  },
+  {
+    "name": "Enim Ut Aliqua",
+    "description": "Magna commodo eiusmod amet minim minim ad nisi enim magna eu veniam veniam aliquip consequat nostrud nostrud sed magna nostrud sed et duis ad in ea tempor ipsum irure consectetur dolor labore voluptate ea laboris aliquip dolor ad adipiscing laboris.",
+    "price": 983.26,
+    "category": "ferias",
+    "stock": 9,
+    "status": true,
+    "image": "img/products/ferias5.jpg"
+  },
+  {
+    "name": "Minim Magna Ut",
+    "description": "Ullamco voluptate in minim cillum fugiat ut dolore commodo in dolore enim voluptate elit et amet eu ut ex dolore ullamco ad duis ad do ad reprehenderit duis irure exercitation tempor amet lorem aliqua aute.",
+    "price": 1518.42,
+    "category": "ferias",
+    "stock": 90,
+    "status": true,
+    "image": "img/products/ferias6.jpg"
+  },
+  {
+    "name": "Eiusmod Dolore Sit",
+    "description": "Enim ipsum dolor dolor labore irure irure laboris amet in magna nostrud aliqua sed minim esse fugiat in enim voluptate lorem ut fugiat do esse reprehenderit fugiat magna aute in dolor sit labore consequat lorem adipiscing tempor consectetur nostrud dolor dolore labore aliquip.",
+    "price": 1772.74,
+    "category": "ferias",
+    "stock": 59,
+    "status": true,
+    "image": "img/products/ferias7.jpg"
+  },
+  {
+    "name": "Eiusmod Lorem Minim",
+    "description": "Dolore in adipiscing esse sed ullamco ut commodo quis nostrud do dolor lorem ea sed consectetur irure consectetur amet dolore commodo dolor eiusmod veniam velit ipsum ut dolore esse ut laboris exercitation ex exercitation elit.",
+    "price": 1772.19,
+    "category": "ferias",
+    "stock": 99,
+    "status": true,
+    "image": "img/products/ferias8.jpg"
+  },
+  {
+    "name": "Elit Sit Adipiscing",
+    "description": "Reprehenderit dolore irure ea aute cillum velit velit aute esse lorem consectetur magna fugiat exercitation esse dolor veniam ad in labore ut ut enim dolor duis laboris magna dolor commodo dolore.",
+    "price": 1910.23,
+    "category": "ferias",
+    "stock": 62,
+    "status": true,
+    "image": "img/products/ferias9.jpg"
+  },
+  {
+    "name": "Lorem Do Ut",
+    "description": "Ut lorem esse enim fugiat ullamco commodo laboris elit do sit cillum irure ex elit ex enim aliqua sed consequat eu irure aliqua irure do nostrud cillum amet laboris dolore ut velit irure ut ut enim lorem laboris ullamco aute ullamco consectetur ut incididunt sit reprehenderit.",
+    "price": 1933.79,
+    "category": "ferias",
+    "stock": 9,
+    "status": true,
+    "image": "img/products/ferias10.jpg"
+  },
+  {
+    "name": "Consectetur Amet Sit",
+    "description": "Aliqua ea in in ullamco fugiat nisi aliquip minim tempor nostrud ea consequat adipiscing in esse magna minim ad tempor ex labore dolore esse tempor ut ad veniam eiusmod dolore elit aliqua in ea eiusmod nisi sit consectetur aliquip ipsum.",
+    "price": 940.86,
+    "category": "ferias",
+    "stock": 90,
+    "status": true,
+    "image": "img/products/ferias11.jpg"
+  },
+  {
+    "name": "Incididunt Ipsum Ut",
+    "description": "Dolore in esse cillum labore ut laboris cillum adipiscing ipsum exercitation et in amet consequat amet duis velit ut tempor fugiat aute dolore enim ullamco lorem laboris enim ut duis elit esse tempor dolor adipiscing duis ullamco consectetur commodo.",
+    "price": 1692.8,
+    "category": "ferias",
+    "stock": 7,
+    "status": true,
+    "image": "img/products/ferias12.jpg"
+  },
+  {
+    "name": "Sed Labore Ipsum",
+    "description": "Irure ad sit lorem aute amet dolore ea cillum commodo ut dolore nostrud aliquip quis dolore eu sit aute lorem ut ut irure ullamco voluptate labore nisi veniam incididunt ad dolore duis labore tempor adipiscing ut eiusmod irure labore aliqua dolor laboris velit in minim tempor.",
+    "price": 735.18,
+    "category": "ferias",
+    "stock": 60,
+    "status": true,
+    "image": "img/products/ferias13.jpg"
+  },
+  {
+    "name": "Labore Elit Sed",
+    "description": "Dolore irure cillum dolor sed sed veniam ex in ut elit do enim exercitation lorem eiusmod commodo esse labore voluptate dolore dolore cillum dolor ut veniam incididunt elit eu aliquip duis dolor commodo consectetur magna minim ad aliquip elit minim labore dolor eu.",
+    "price": 1769.34,
+    "category": "ferias",
+    "stock": 22,
+    "status": true,
+    "image": "img/products/ferias14.jpg"
+  },
+  {
+    "name": "Ipsum Do Aliqua",
+    "description": "Ea esse aute velit do eu in ex dolor reprehenderit lorem et ex aliqua adipiscing in ad elit ipsum magna do voluptate duis esse ut elit incididunt ut laboris aliqua ex reprehenderit aliqua quis nostrud.",
+    "price": 949.0,
+    "category": "ferias",
+    "stock": 80,
+    "status": true,
+    "image": "img/products/ferias15.jpg"
+  },
+  {
+    "name": "Labore Ipsum Adipiscing",
+    "description": "Do reprehenderit quis ut dolor ad et commodo magna laboris enim elit do ullamco et esse ullamco quis ipsum commodo fugiat ut duis lorem laboris sit cillum ex irure consequat velit elit consequat magna exercitation tempor ut et cillum eiusmod nostrud do labore laboris.",
+    "price": 1591.94,
+    "category": "ferias",
+    "stock": 76,
+    "status": true,
+    "image": "img/products/ferias16.jpg"
+  },
+  {
+    "name": "Dolore Elit Consectetur",
+    "description": "Voluptate ipsum exercitation ut ex esse enim ullamco veniam consequat voluptate minim do ut aliquip labore eu fugiat adipiscing tempor quis dolor et consectetur ex ad nostrud commodo ipsum consectetur et ut voluptate aliquip aliqua aliqua ad nostrud laboris aute aliquip in tempor esse aliquip velit.",
+    "price": 52.82,
+    "category": "ferias",
+    "stock": 35,
+    "status": true,
+    "image": "img/products/ferias17.jpg"
+  },
+  {
+    "name": "Ipsum Tempor Ut",
+    "description": "Aliqua eu laboris fugiat elit do tempor ut exercitation nostrud ut minim ut ullamco aliqua duis aliquip enim commodo ut ut laboris quis sit dolore incididunt aliqua dolor do exercitation quis aliquip fugiat dolore ut dolor ad sit lorem magna nisi cillum ut amet do ullamco ea irure.",
+    "price": 1937.54,
+    "category": "ferias",
+    "stock": 91,
+    "status": true,
+    "image": "img/products/ferias18.jpg"
+  },
+  {
+    "name": "Eiusmod Incididunt Dolore",
+    "description": "Irure elit ut aliqua dolore tempor esse quis tempor reprehenderit ut in laboris reprehenderit aliquip ullamco amet aute elit incididunt consequat ex ad do dolor laboris eiusmod laboris ea ea duis elit aute enim aliqua ut exercitation sit in sit labore aliquip quis eiusmod consequat sit velit amet nostrud fugiat.",
+    "price": 1747.06,
+    "category": "ferias",
+    "stock": 74,
+    "status": true,
+    "image": "img/products/ferias19.jpg"
+  },
+  {
+    "name": "Minim Ut Eiusmod",
+    "description": "Sed reprehenderit commodo elit cillum ut ullamco ea ipsum lorem dolore commodo eu velit aute adipiscing fugiat labore esse aute minim adipiscing enim ex duis irure ut commodo velit voluptate aliquip consectetur incididunt ullamco dolor duis incididunt amet ad eu esse magna cillum sed aute ut ipsum.",
+    "price": 91.63,
+    "category": "ferias",
+    "stock": 98,
+    "status": true,
+    "image": "img/products/ferias20.jpg"
+  },
+  {
+    "name": "Aliqua Sed Sit",
+    "description": "Irure adipiscing adipiscing dolore adipiscing adipiscing incididunt minim dolore ut voluptate laboris in in ut lorem aute quis quis ullamco ut dolore duis magna nisi magna sed reprehenderit adipiscing tempor duis ex amet voluptate magna amet nostrud veniam aute sit ullamco et.",
+    "price": 1336.93,
+    "category": "ferias",
+    "stock": 17,
+    "status": true,
+    "image": "img/products/ferias21.jpg"
+  }
+]

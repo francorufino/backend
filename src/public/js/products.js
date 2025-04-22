@@ -23,10 +23,22 @@ document.addEventListener("DOMContentLoaded", () => {
       .then((data) => {
         productList.innerHTML = "";
 
+        productList.style.display = "flex";
+        productList.style.flexWrap = "wrap";
+        productList.style.justifyContent = "center";
+        productList.style.gap = "4px";
+
         data.docs.forEach((product) => {
           const item = document.createElement("div");
-          item.style = "border: 1px solid #ccc; padding: 1rem; width: 200px;";
+          item.style =
+            "border: 1px solid #ccc; padding: 1rem; width: 200px; text-align: center;";
+
+          const imagePath = product.image ? `/static/${product.image}` : "";
+
           item.innerHTML = `
+            <img src="${imagePath}" alt="${
+            product.name
+          }" style="width:100%; height:auto; object-fit:cover; margin-bottom: 8px;" />
             <h3>${product.name}</h3>
             <p><strong>R$ ${product.price.toFixed(2)}</strong></p>
             <p><em>${product.category}</em></p>
