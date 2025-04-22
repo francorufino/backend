@@ -5,7 +5,7 @@ const path = require("path");
 const pathView = path.join(`${__dirname}/views`);
 const usersRouter = require("./routes/users.router");
 const viewsRouter = require("./routes/views.route");
-const chatMessage = require("./models/chatmessage.model");
+const chatMessage = require("./dao/chatmessage.model");
 
 const app = express();
 

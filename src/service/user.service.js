@@ -1,4 +1,4 @@
-const userModel = require("../models/users.model");
+const userModel = require("../dao/users.model");
 const getUsers = async () => {
   console.log("ENTROU NO GETUSERS DO USERSERVICE...");
   let users = await userModel.find();

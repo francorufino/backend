@@ -6,8 +6,8 @@ const userSchema = new mongoose.Schema({
   last_name: String,
   email: {
     type: String,
-    unique: true
-  }
+    unique: true,
+  },
 });
 
 const userModel = mongoose.model(userCollection, userSchema);

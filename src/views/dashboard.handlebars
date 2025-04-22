@@ -1,0 +1,48 @@
+<h1>
+  Olá, {{user.first_name}}!
+</h1>
+
+<p>
+  Bem-vindo ao seu cantinho. Aqui você pode ver suas informações pessoais e
+  acompanhar sua atividade.
+</p>
+
+<hr />
+
+<h2>
+  🧾 Informações da sua conta:
+</h2>
+<ul>
+  <li>
+    <strong>
+      Nome:
+    </strong>
+    {{user.first_name}} {{user.last_name}}
+  </li>
+  <li>
+    <strong>
+      Email:
+    </strong>
+    {{user.email}}
+  </li>
+  <li>
+    <strong>
+      Último acesso:
+    </strong>
+    {{user.lastLogin}}
+  </li>
+</ul>
+
+<h2>
+  Produtos recomendados:
+</h2>
+<ul>
+  {{#each products}}
+    <li>
+      <strong>
+        {{this.name}}
+      </strong>
+      – R$ {{this.price}}
+    </li>
+  {{/each}}
+</ul>

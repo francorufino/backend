@@ -1,6 +1,6 @@
 const express = require("express");
 const uploader = require("../utils/multer");
-const userModel = require("../models/users.model");
+const userModel = require("../dao/users.model");
 
 const router = express.Router();
 
@@ -37,7 +37,23 @@ router.post("/", async (req, res) => {
     const newUser = await userModel.create(user);
     console.log("PASSOU PELO TRY DO POST E CRIOU O USER:");
     console.log(newUser);
-    return res.status(200).json(newUser);
+
+    const products = [
+      { name: "Notebook Gamer", price: 3499.99 },
+      { name: "Mouse Sem Fio", price: 99.9 },
+      { name: "Teclado Mecânico", price: 289.5 },
+      { name: "Monitor 24''", price: 899.0 },
+    ];
+
+    return res.status(200).render("dashboard", {
+      user: {
+        first_name: newUser.first_name,
+        last_name: newUser.last_name,
+        email: newUser.email,
+        lastLogin: new Date().toLocaleString("pt-BR"),
+      },
+      products,
+    });
   } catch (error) {
     console.log("PASSOU PELO CATCH DO POST E DEU ERRO AO CRIAR O USER:");
     console.log(error);
@@ -50,7 +66,7 @@ router.put("/:uid", async (req, res) => {
     const { uid } = req.params;
     const user = req.body;
     const updatedUser = await userModel.findByIdAndUpdate(uid, user, {
-      new: true
+      new: true,
     });
     console.log("PASSOU PELO TRY DO PUT E ATUALIZOU O USER:");
     console.log(updatedUser);
