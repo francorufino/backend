@@ -19,4 +19,8 @@ router.get("/products", (req, res) => {
   res.render("products");
 });
 
+router.get("/cart", (req, res) => {
+  res.render("cart");
+});
+
 module.exports = router;

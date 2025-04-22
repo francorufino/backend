@@ -49,9 +49,13 @@ document.addEventListener("DOMContentLoaded", () => {
             <p><strong>R$ ${product.price.toFixed(2)}</strong></p>
             <p><em>${product.category}</em></p>
             <p>${product.description}</p>
+            <label for="quantity-${product._id}">Quantidade:</label>
+            <input type="number" id="quantity-${product._id}" data-id="${
+            product._id
+          }" min="1" value="1" style="width: 60px; margin-bottom: 8px;" />
             <button class="add-to-cart-btn" data-id="${
               product._id
-            }" style="margin-top: 8px;">
+            }" data-price="${product.price}" style="margin-top: 8px;">
               Adicionar ao carrinho
             </button>
           `;
@@ -99,16 +103,24 @@ document.addEventListener("DOMContentLoaded", () => {
   document.addEventListener("click", (e) => {
     if (e.target.classList.contains("add-to-cart-btn")) {
       const productId = e.target.getAttribute("data-id");
+      const price = parseFloat(e.target.getAttribute("data-price"));
+      const quantityInput = document.querySelector(`#quantity-${productId}`);
+      const quantity = parseInt(quantityInput.value) || 1;
+
       const productCard = e.target.closest("div");
 
       const product = {
         id: productId,
         name: productCard.querySelector("h3").innerText,
+        quantity: quantity,
+        total: (price * quantity).toFixed(2),
       };
 
       cart.push(product);
       console.log("Carrinho atualizado:", cart);
-      alert("Produto adicionado ao carrinho!");
+      alert(
+        `Adicionado ${quantity}x ${product.name} ao carrinho! Total: R$ ${product.total}`
+      );
     }
   });
 
