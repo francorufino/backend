@@ -4,18 +4,35 @@
   </h1>
   <ul>
     {{#each users}}
-      <div>
-        <img src="/static/{{pathImage}}" alt="avatar" width="50px" />
-        <li>
-          {{first_name}} {{last_name}} {{email}}
-        </li>
+      <li style="margin-bottom: 15px;">
+        {{#if avatar}}
+          <img
+            src="{{avatar}}"
+            alt="avatar"
+            width="50px"
+            style="border-radius: 8%; vertical-align: middle;"
+          />
+        {{else}}
+          <span style="color: gray;">
+            [Sem avatar]
+          </span>
+        {{/if}}
+
+        <span style="margin-left: 10px;">
+          <strong>
+            {{first_name}} {{last_name}}
+          </strong>
+          – {{email}}
+        </span>
+
+        <br />
         <button class="delete-button" data-email="{{email}}">
           Deletar
         </button>
         <button class="edit-button" data-email="{{email}}" data-id="{{_id}}">
           Editar
         </button>
-      </div>
+      </li>
     {{/each}}
   </ul>
   <script>

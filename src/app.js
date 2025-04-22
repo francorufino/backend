@@ -6,6 +6,8 @@ const pathView = path.join(`${__dirname}/views`);
 const usersRouter = require("./routes/users.router");
 const viewsRouter = require("./routes/views.route");
 const chatMessage = require("./dao/chatmessage.model");
+const productsApiRouter = require("./api/products.router");
+// const productsRouter = require("./routes/products.router");
 
 const app = express();
 
@@ -25,7 +27,11 @@ app.set("views", path.join(__dirname, "views"));
 app.use("/users", usersRouter);
 app.use("/static", express.static(staticPath));
 app.use("/", viewsRouter);
+
 app.use("/uploads", express.static(path.join(__dirname, "public", "uploads")));
+
+app.use("/api/products", productsApiRouter);
+// app.use("/products", productsRouter);
 
 app.get("/chat", async (req, res) => {
   const mensagens = await chatMessage.find().sort({ createdAt: 1 }).lean();

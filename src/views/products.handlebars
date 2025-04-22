@@ -1,0 +1,80 @@
+<h1 style="text-align: center;">
+  Produtos disponíveis
+</h1>
+
+<div style="margin-bottom: 1rem; text-align: center;">
+  <label for="category">
+    Filtrar por categoria:
+  </label>
+  <select id="category">
+    <option value="">
+      Todas
+    </option>
+    <option value="roupas femininas">
+      Roupas Femininas
+    </option>
+    <option value="roupas masculinas">
+      Roupas Masculinas
+    </option>
+    <option value="acessorios">
+      Acessórios
+    </option>
+    <option value="beleza">
+      Beleza
+    </option>
+    <option value="eletronicos">
+      Eletrônicos
+    </option>
+    <option value="livros">
+      Livros
+    </option>
+    <option value="esportes">
+      Esportes
+    </option>
+    <option value="escola">
+      Escola
+    </option>
+    <option value="ferias">
+      Férias
+    </option>
+  </select>
+
+  <label for="sort">
+    Ordenar por preço:
+  </label>
+  <select id="sort">
+    <option value="">
+      Nenhum
+    </option>
+    <option value="asc">
+      Menor preço
+    </option>
+    <option value="desc">
+      Maior preço
+    </option>
+  </select>
+
+  <label for="search">
+    Buscar:
+  </label>
+  <input type="text" id="search" placeholder="Digite o nome do produto..." />
+</div>
+
+<div
+  id="product-list"
+  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; max-width: 900px; margin: auto;"
+></div>
+
+<div id="pagination-controls" style="margin-top: 1.5rem; text-align: center;">
+  <button id="prevPage">
+    Anterior
+  </button>
+  <span id="currentPage">
+    Página 1
+  </span>
+  <button id="nextPage">
+    Próxima
+  </button>
+</div>
+
+<script src="/static/js/products.js"></script>

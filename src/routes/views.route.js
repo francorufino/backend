@@ -15,4 +15,8 @@ router.get("/list", async (req, res) => {
   res.render("list", { users });
 });
 
+router.get("/products", (req, res) => {
+  res.render("products");
+});
+
 module.exports = router;
