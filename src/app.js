@@ -25,6 +25,7 @@ app.set("views", path.join(__dirname, "views"));
 app.use("/users", usersRouter);
 app.use("/static", express.static(staticPath));
 app.use("/", viewsRouter);
+app.use("/uploads", express.static(path.join(__dirname, "public", "uploads")));
 
 app.get("/chat", async (req, res) => {
   const mensagens = await chatMessage.find().sort({ createdAt: 1 }).lean();

@@ -31,12 +31,23 @@ router.get("/:uid", async (req, res) => {
   }
 });
 
-router.post("/", async (req, res) => {
+router.post("/", uploader.single("avatar"), async (req, res) => {
   try {
-    const user = req.body;
-    const newUser = await userModel.create(user);
+    const { first_name, last_name, email, password } = req.body;
+    const avatarPath = req.file ? `/uploads/${req.file.filename}` : null;
+
+    const newUser = await userModel.create({
+      first_name,
+      last_name,
+      email,
+      password,
+      avatar: avatarPath,
+    });
     console.log("PASSOU PELO TRY DO POST E CRIOU O USER:");
     console.log(newUser);
+    console.log("DADOS RECEBIDOS NO POST:");
+    console.log("BODY:", req.body);
+    console.log("FILE:", req.file);
 
     const products = [
       { name: "Notebook Gamer", price: 3499.99 },
