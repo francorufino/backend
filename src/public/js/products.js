@@ -21,6 +21,17 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch(url)
       .then((res) => res.json())
       .then((data) => {
+        let products = data.docs;
+
+        // 1️⃣ PRIORIDADE para produtos com imagem diferente do placeholder
+        products.sort((a, b) => {
+          const imgA = a.image?.trim().toLowerCase();
+          const imgB = b.image?.trim().toLowerCase();
+          const isDefaultA = !imgA || imgA === "img/products/comingsoon.jpg";
+          const isDefaultB = !imgB || imgB === "img/products/comingsoon.jpg";
+          return isDefaultA - isDefaultB; // false < true, então vem antes
+        });
+
         productList.innerHTML = "";
 
         productList.style.display = "flex";
@@ -28,15 +39,17 @@ document.addEventListener("DOMContentLoaded", () => {
         productList.style.justifyContent = "center";
         productList.style.gap = "4px";
 
-        data.docs.forEach((product) => {
+        products.forEach((product) => {
           const item = document.createElement("div");
           item.style =
             "border: 1px solid #ccc; padding: 1rem; width: 200px; text-align: center; background: white;";
 
           const imagePath =
             product.image && product.image.trim()
-              ? `/static/${product.image}`
+              ? `/static/${product.image.trim()}`
               : `/static/img/products/comingsoon.jpg`;
+
+          const isOutOfStock = product.stock <= 0;
 
           item.innerHTML = `
             <img src="${imagePath}" alt="${product.name}" 
@@ -50,11 +63,15 @@ document.addEventListener("DOMContentLoaded", () => {
             <label for="quantity-${product._id}">Quantidade:</label>
             <input type="number" id="quantity-${product._id}" data-id="${
             product._id
-          }" min="1" value="1" style="width: 60px; margin-bottom: 8px;" />
+          }" min="1" value="1" style="width: 60px; margin-bottom: 8px;" ${
+            isOutOfStock ? "disabled" : ""
+          } />
             <button class="add-to-cart-btn" data-id="${
               product._id
-            }" data-price="${product.price}" style="margin-top: 8px;">
-              Adicionar ao carrinho
+            }" data-price="${product.price}" style="margin-top: 8px;" ${
+            isOutOfStock ? "disabled" : ""
+          }>
+              ${isOutOfStock ? "Esgotado" : "Adicionar ao carrinho"}
             </button>
           `;
 
@@ -99,7 +116,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   document.addEventListener("click", (e) => {
-    if (e.target.classList.contains("add-to-cart-btn")) {
+    if (e.target.classList.contains("add-to-cart-btn") && !e.target.disabled) {
       let cart = JSON.parse(localStorage.getItem("cart")) || [];
 
       const productId = e.target.getAttribute("data-id");
@@ -131,7 +148,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       localStorage.setItem("cart", JSON.stringify(cart));
-
       console.log("Carrinho atualizado:", cart);
       alert(`Adicionado ${quantity}x ${productName} ao carrinho!`);
     }
