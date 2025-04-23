@@ -1,0 +1,93 @@
+<h1 style="text-align: center;">
+  Adicionar Produto
+</h1>
+
+<form
+  action="/api/products"
+  method="POST"
+  enctype="multipart/form-data"
+  style="max-width: 400px; margin: auto;"
+>
+  <label>
+    Nome:
+  </label>
+  <input type="text" name="name" required />
+  <br />
+
+  <label>
+    Preço:
+  </label>
+  <input type="number" name="price" step="0.01" min="0" required />
+  <br />
+
+  <label>
+    Categoria:
+  </label>
+  <select name="category" required>
+    <option value="roupas femininas">
+      roupas femininas
+    </option>
+    <option value="roupas masculinas">
+      roupas nasculinas
+    </option>
+    <option value="acessorios">
+      acessorios
+    </option>
+    <option value="beleza">
+      beleza
+    </option>
+    <option value="eletronicos">
+      eletronicos
+    </option>
+    <option value="livros">
+      livros
+    </option>
+    <option value="escola">
+      escola
+    </option>
+    <option value="ferias">
+      ferias
+    </option>
+  </select>
+  <br />
+
+  <label>
+    Descrição:
+  </label>
+  <textarea name="description" required></textarea>
+  <br />
+
+  <label>
+    Estoque:
+  </label>
+  <input type="number" name="stock" min="0" required />
+  <br />
+
+  <label>
+    Imagem:
+  </label>
+  <input type="file" name="image" accept="image/*" required />
+  <br />
+  <br />
+
+  <button type="submit">
+    Adicionar Produto
+  </button>
+</form>
+
+<script>
+  document.getElementById("productForm").addEventListener("submit", async (e) =>
+  { e.preventDefault(); const product = { name:
+  document.getElementById("name").value.trim(), price:
+  parseFloat(document.getElementById("price").value), category:
+  document.getElementById("category").value.trim(), description:
+  document.getElementById("description").value.trim(), stock:
+  parseInt(document.getElementById("stock").value), image:
+  document.getElementById("image").value.trim(), }; try { const res = await
+  fetch("/api/products", { method: "POST", headers: { "Content-Type":
+  "application/json" }, body: JSON.stringify(product), }); const data = await
+  res.json(); if (data.status === "success") { alert("Produto adicionado com
+  sucesso!"); document.getElementById("productForm").reset(); } else {
+  alert("Erro ao adicionar produto."); } } catch (err) { console.error(err);
+  alert("Erro na requisição."); } });
+</script>

@@ -8,8 +8,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const productList = document.getElementById("product-list");
   const currentPageLabel = document.getElementById("currentPage");
 
-  let cart = JSON.parse(localStorage.getItem("cart")) || [];
-
   function loadProducts() {
     const category = categorySelect.value;
     const sort = sortSelect.value;
@@ -102,33 +100,40 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.addEventListener("click", (e) => {
     if (e.target.classList.contains("add-to-cart-btn")) {
+      let cart = JSON.parse(localStorage.getItem("cart")) || [];
+
       const productId = e.target.getAttribute("data-id");
       const price = parseFloat(e.target.getAttribute("data-price"));
       const quantityInput = document.querySelector(`#quantity-${productId}`);
       const quantity = parseInt(quantityInput.value) || 1;
 
       const productCard = e.target.closest("div");
+      const productName = productCard.querySelector("h3").innerText;
 
-      const product = {
-        id: productId,
-        name: productCard.querySelector("h3").innerText,
-        quantity: quantity,
-        price: price,
-        total: price * quantity,
-      };
+      const existingProductIndex = cart.findIndex(
+        (item) => item.id === productId
+      );
 
-      cart.push(product);
+      if (existingProductIndex !== -1) {
+        cart[existingProductIndex].quantity += quantity;
+        cart[existingProductIndex].total = (
+          cart[existingProductIndex].quantity * price
+        ).toFixed(2);
+      } else {
+        const newProduct = {
+          id: productId,
+          name: productName,
+          quantity: quantity,
+          price: price,
+          total: (price * quantity).toFixed(2),
+        };
+        cart.push(newProduct);
+      }
+
       localStorage.setItem("cart", JSON.stringify(cart));
 
-      console.log(
-        "PASSOU PELO CART LOGO DEPOIS DO PUSH E AGORA O CARRINHO EH:"
-      );
-      console.log(cart);
-      alert(
-        `Adicionado ${quantity}x ${
-          product.name
-        } ao carrinho! Total: R$ ${product.total.toFixed(2)}`
-      );
+      console.log("Carrinho atualizado:", cart);
+      alert(`Adicionado ${quantity}x ${productName} ao carrinho!`);
     }
   });
 
